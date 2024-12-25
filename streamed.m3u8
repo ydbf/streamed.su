@@ -1,0 +1,102 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Sky Sports Darts
+https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Darts TV: All Darts Championship
+https://rr.vipstreams.in/Alpha/js/darts-tv-all-darts-championship/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Sky Sports Golf
+https://rr.vipstreams.in/Alpha/js/sky-sports-golf/1/playlist.m3u8
+#EXTINF:-1 tvg-name="PGA Tour 2024" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",PGA Tour 2024
+https://rr.vipstreams.in/Alpha/js/pga-tour-2024/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NBC Golf Channel" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",NBC Golf Channel
+https://rr.vipstreams.in/Alpha/js/nbc-golf-channel/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fox NRL TV" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Fox NRL TV
+https://rr.vipstreams.in/Alpha/js/fox-nrl-tv/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Tennis Channel
+https://rr.vipstreams.in/Alpha/js/tennis-channel/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",WWE Network
+https://rr.vipstreams.in/Alpha/js/wwe-network/1/playlist.m3u8
+#EXTINF:-1 tvg-name="DAZN Formula 1 | DAZN F1" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",DAZN Formula 1 | DAZN F1
+https://rr.vipstreams.in/Alpha/js/dazn-formula-1-dazn-f1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports F1 | Sky F1" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Sky Sports F1 | Sky F1
+https://rr.vipstreams.in/Alpha/js/sky-sports-f1-sky-f1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NASCAR Racehub" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",NASCAR Racehub
+https://rr.vipstreams.in/Alpha/js/nascar-racehub/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",NHL Network
+https://rr.vipstreams.in/Alpha/js/nhl-network/1/playlist.m3u8
+#EXTINF:-1 tvg-name="SNF: Sunday Night Football" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",SNF: Sunday Night Football
+https://rr.vipstreams.in/Alpha/js/snf-sunday-night-football/1/playlist.m3u8
+#EXTINF:-1 tvg-name="TNF: Thursday Night Football" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",TNF: Thursday Night Football
+https://rr.vipstreams.in/Alpha/js/tnf-thursday-night-football/1/playlist.m3u8
+#EXTINF:-1 tvg-name="MNF: Monday Night Football" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",MNF: Monday Night Football
+https://rr.vipstreams.in/Alpha/js/mnf-monday-night-football/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NFL RedZone" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",NFL RedZone
+https://rr.vipstreams.in/Alpha/js/nfl-redzone/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",NFL Network
+https://rr.vipstreams.in/Alpha/js/nfl-network/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",ESPN
+https://rr.vipstreams.in/Alpha/js/espn/1/playlist.m3u8
+#EXTINF:-1 tvg-name="MUTV | Manchester United TV | MUFC TV" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",MUTV | Manchester United TV | MUFC TV
+https://rr.vipstreams.in/Alpha/js/mutv-manchester-united-tv-mufc-tv/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Saturday Social" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Sky Sports Saturday Social
+https://rr.vipstreams.in/Alpha/js/sky-sports-saturday-social/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports News | SSN Breaking Sports News" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Sky Sports News | SSN Breaking Sports News
+https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN First Take" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",ESPN First Take
+https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",NBA TV
+https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
+#EXTINF:-1 tvg-name="SFT 19 Pt 1" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",11:00 AM - SFT 19 Pt 1 [Charlie] - (25/12/2024)
+https://rr.vipstreams.in/Charlie/js/sft-19-pt-1-1629418787/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WWE NXT" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",12:00 PM - WWE NXT [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/wwe-nxt/1/playlist.m3u8
+#EXTINF:-1 tvg-name="South Florida v San Jose State" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="American Football",12:00 PM - South Florida v San Jose State [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/south-florida-vs-san-jose-state/1/playlist.m3u8
+#EXTINF:-1 tvg-name="South Florida v San Jose State" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="American Football",12:00 PM - South Florida v San Jose State [Charlie] - (25/12/2024)
+https://rr.vipstreams.in/Charlie/js/south-florida-vs-san-jose-state-1629418788/1/playlist.m3u8
+#EXTINF:-1 tvg-name="KCC Egis v Anyang JungKwanJang" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",04:00 PM - KCC Egis v Anyang JungKwanJang [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/kcc-egis-vs-anyang-jungkwanjang/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Goyang Sono v Wonju DB" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",04:00 PM - Goyang Sono v Wonju DB [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/goyang-sono-vs-wonju-db/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Seoul Knights v Seoul Thunders" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",06:00 PM - Seoul Knights v Seoul Thunders [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/seoul-knights-vs-seoul-thunders/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tasmania JackJumpers v New Zealand Breakers" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",06:00 PM - Tasmania JackJumpers v New Zealand Breakers [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/tasmania-jackjumpers-vs-new-zealand-breakers/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Meralco Bolts v Converge FiberXers" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",08:00 PM - Meralco Bolts v Converge FiberXers [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/meralco-bolts-vs-converge-fiberxers/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sydney v Illawarra Hawks" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",08:30 PM - Sydney v Illawarra Hawks [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/sydney-vs-illawarra-hawks/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ryukyu v New Taipei Kings" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",09:40 PM - Ryukyu v New Taipei Kings [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/ryukyu-vs-new-taipei-kings/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Barangay Ginebra San Miguel v Magnolia Hotshots" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",10:30 PM - Barangay Ginebra San Miguel v Magnolia Hotshots [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/barangay-ginebra-san-miguel-vs-magnolia-hotshots/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Shanghai v Fujian" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",10:35 PM - Shanghai v Fujian [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/shanghai-vs-fujian/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Shandong v Beijing" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",10:35 PM - Shandong v Beijing [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/shandong-vs-beijing/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Qingdao v Tianjin" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",10:35 PM - Qingdao v Tianjin [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/qingdao-vs-tianjin/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Jiangsu Dragons v Ningbo Rockets" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",10:35 PM - Jiangsu Dragons v Ningbo Rockets [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/jiangsu-dragons-vs-ningbo-rockets/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Guangdong v Zhejiang Chouzhou" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",10:35 PM - Guangdong v Zhejiang Chouzhou [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/guangdong-vs-zhejiang-chouzhou/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Taoyuan Pauian Pilots v Hiroshima D." tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",11:10 PM - Taoyuan Pauian Pilots v Hiroshima D. [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/taoyuan-pauian-pilots-vs-hiroshima-d/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Saudi Arabia v Yemen" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",01:25 AM - Saudi Arabia v Yemen [Alpha] - (26/12/2024)
+https://rr.vipstreams.in/Alpha/js/saudi-arabia-vs-yemen/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Saudi Arabia v Yemen" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",01:25 AM - Saudi Arabia v Yemen [Charlie] - (26/12/2024)
+https://rr.vipstreams.in/Charlie/js/yemen-vs-saudi-arabia-19327488/1/playlist.m3u8
+#EXTINF:-1 tvg-name="San Antonio Spurs v New York Knicks" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",04:00 AM - San Antonio Spurs v New York Knicks [Charlie] - (26/12/2024)
+https://rr.vipstreams.in/Charlie/js/san-antonio-spurs-vs-new-york-knicks-1629418940/1/playlist.m3u8
+#EXTINF:-1 tvg-name="San Antonio Spurs v New York Knicks" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",04:00 AM - San Antonio Spurs v New York Knicks [Echo] - (26/12/2024)
+https://rr.vipstreams.in/Echo/js/new-york-knicks-san-antonio-spurs-19796/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bahrain v Iraq" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",04:30 AM - Bahrain v Iraq [Charlie] - (26/12/2024)
+https://rr.vipstreams.in/Charlie/js/bahrain-vs-iraq-19327489/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pittsburgh Steelers v Kansas City Chiefs" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:00 AM - Pittsburgh Steelers v Kansas City Chiefs [Echo] - (26/12/2024)
+https://rr.vipstreams.in/Echo/js/pittsburgh-steelers-kansas-city-chiefs-22476/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kansas City Chiefs v Pittsburgh Steelers" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="American Football",05:00 AM - Kansas City Chiefs v Pittsburgh Steelers [Charlie] - (26/12/2024)
+https://rr.vipstreams.in/Charlie/js/kansas-city-chiefs-vs-pittsburgh-steelers-1629417949/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Minnesota Timberwolves v Dallas Mavericks" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",06:30 AM - Minnesota Timberwolves v Dallas Mavericks [Charlie] - (26/12/2024)
+https://rr.vipstreams.in/Charlie/js/minnesota-timberwolves-vs-dallas-mavericks-1629418942/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Minnesota Timberwolves v Dallas Mavericks" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",06:30 AM - Minnesota Timberwolves v Dallas Mavericks [Echo] - (26/12/2024)
+https://rr.vipstreams.in/Echo/js/dallas-mavericks-minnesota-timberwolves-19797/1/playlist.m3u8
