@@ -1,0 +1,968 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="South Korea W v Czech Republic W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",06:00 AM - South Korea W v Czech Republic W [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749326400000-south-korea-w-czech-republic-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Canada W v Japan W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",06:00 AM - Canada W v Japan W [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749326400000-canada-w-japan-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Franca v Minas" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",06:00 AM - Franca v Minas [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749326400000-franca-minas/1/playlist.m3u8
+#EXTINF:-1 tvg-name="America's Day At the Belmont Stakes" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",06:00 AM - America's Day At the Belmont Stakes [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/america-s-day-at-the-belmont-stakes/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Mexico vs Switzerland" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrLAV8nSCF4gsICIZBmSIaiEQHJOpBSwi5jFGFUoe78o2pzPOvRaYowhQA.webp" group-title="Football",06:00 AM - Mexico vs Switzerland [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/mexico-vs-switzerland/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Mexico vs Switzerland" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrLAV8nSCF4gsICIZBmSIaiEQHJOpBSwi5jFGFUoe78o2pzPOvRaYowhQA.webp" group-title="Football",06:00 AM - Mexico vs Switzerland [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749326400000-mexico-switzerland/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Real Pilar vs Deportivo Armenio" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:45 AM - Real Pilar vs Deportivo Armenio [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749325500000-real-pilar-deportivo-armenio/1/playlist.m3u8
+#EXTINF:-1 tvg-name="USA v Turkiye" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:30 AM - USA v Turkiye [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/usa-vs-turkiye-1360317/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Canada vs Ukraine" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF6aEDCmE0gsICIZBmSIaiEQwzLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",05:30 AM - Canada vs Ukraine [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/canada-vs-ukraine/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Canada vs Ukraine" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF6aEDCmE0gsICIZBmSIaiEQwzLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",05:30 AM - Canada vs Ukraine [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749324600000-canada-ukraine/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Canada vs Ukraine" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF6aEDCmE0gsICIZBmSIaiEQwzLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",05:30 AM - Canada vs Ukraine [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/canada-vs-ukraine-1364922/1/playlist.m3u8
+#EXTINF:-1 tvg-name="USA vs Turkey" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoxQgsIeGBAGQvbSAgmDJENV1GQMFkgpYRczWFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",05:30 AM - USA vs Turkey [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/usa-vs-turkey/1/playlist.m3u8
+#EXTINF:-1 tvg-name="USA vs Turkey" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoxQgsIeGBAGQvbSAgmDJENV1GQMFkgpYRczWFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",05:30 AM - USA vs Turkey [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749324600000-usa-turkey/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pescara v Ternana" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:15 AM - Pescara v Ternana [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749323700000-pescara-ternana/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Montpellier v Clermont" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Rugby",05:05 AM - Montpellier v Clermont [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/montpellier-vs-clermont/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Montpellier v Clermont" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Rugby",05:05 AM - Montpellier v Clermont [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749323100000-montpellier-clermont/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Lyon v Racing 92" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Rugby",05:05 AM - Lyon v Racing 92 [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/lyon-vs-racing-92/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Lyon v Racing 92" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Rugby",05:05 AM - Lyon v Racing 92 [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749323100000-lyon-racing-92/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bordeaux Begles v Vannes" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Rugby",05:05 AM - Bordeaux Begles v Vannes [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/bordeaux-begles-vs-vannes/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bordeaux Begles v Vannes" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Rugby",05:05 AM - Bordeaux Begles v Vannes [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749323100000-bordeaux-begles-vannes/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Stade Français Paris vs Castres Olympique" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAz8ezSCCkhueozkM4IIC-pAFgSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp" group-title="Rugby",05:05 AM - Stade Français Paris vs Castres Olympique [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/stade-francais-paris-vs-castres-olympique/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Stade Français Paris vs Castres Olympique" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAz8ezSCCkhueozkM4IIC-pAFgSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp" group-title="Rugby",05:05 AM - Stade Français Paris vs Castres Olympique [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749323100000-stade-francais-paris-castres-olympique/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Section Paloise vs Stade Rochelais" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSBjAw2kBBAkQ3EBo05jOfSGtGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Rugby",05:05 AM - Section Paloise vs Stade Rochelais [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/section-paloise-vs-stade-rochelais/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Section Paloise vs Stade Rochelais" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSBjAw2kBBAkQ3EBo05jOfSGtGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Rugby",05:05 AM - Section Paloise vs Stade Rochelais [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749323100000-section-paloise-stade-rochelais/1/playlist.m3u8
+#EXTINF:-1 tvg-name="USA Perpignan vs Stade Toulousain" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJsDBJi2xNxBSDuEPpwQQFlCAVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Rugby",05:05 AM - USA Perpignan vs Stade Toulousain [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/usa-perpignan-vs-stade-toulousain/1/playlist.m3u8
+#EXTINF:-1 tvg-name="USA Perpignan vs Stade Toulousain" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJsDBJi2xNxBSDuEPpwQQFlCAVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Rugby",05:05 AM - USA Perpignan vs Stade Toulousain [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749323100000-usa-perpignan-stade-toulousain/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Aviron Bayonnais vs RC Toulonnais" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChC95uUFpB99EECZgmDFhUyQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp" group-title="Rugby",05:05 AM - Aviron Bayonnais vs RC Toulonnais [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/aviron-bayonnais-vs-rc-toulonnais/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Aviron Bayonnais vs RC Toulonnais" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChC95uUFpB99EECZgmDFhUyQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp" group-title="Rugby",05:05 AM - Aviron Bayonnais vs RC Toulonnais [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749323100000-aviron-bayonnais-rc-toulonnais/1/playlist.m3u8
+#EXTINF:-1 tvg-name="AMA Supercross: Thunder Valley" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",05:00 AM - AMA Supercross: Thunder Valley [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-ama-supercross-thunder-valley/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WOW FC 20" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",05:00 AM - WOW FC 20 [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-wow-fc-20/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hexagone MMA 30" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",05:00 AM - Hexagone MMA 30 [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-hexagone-mma-30/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WWE Worlds Collide" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",05:00 AM - WWE Worlds Collide [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-wwe-worlds-collide/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Deportivo Tachira v Puerto Cabello" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:00 AM - Deportivo Tachira v Puerto Cabello [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-deportivo-tachira-puerto-cabello/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Envigado v Barranquilla" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:00 AM - Envigado v Barranquilla [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-envigado-barranquilla/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tigres v Inter Palmira" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:00 AM - Tigres v Inter Palmira [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-tigres-inter-palmira/1/playlist.m3u8
+#EXTINF:-1 tvg-name="America MG v Ferroviaria" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:00 AM - America MG v Ferroviaria [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-america-mg-ferroviaria/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Auburn v Coastal Carolina" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Baseball",05:00 AM - Auburn v Coastal Carolina [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-auburn-vs-coastal-carolina/1/playlist.m3u8
+#EXTINF:-1 tvg-name="American Family Insurance Championship" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",05:00 AM - American Family Insurance Championship [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-american-family-insurance-championship/1/playlist.m3u8
+#EXTINF:-1 tvg-name="RBC Canadian Open" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",05:00 AM - RBC Canadian Open [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-rbc-canadian-open/1/playlist.m3u8
+#EXTINF:-1 tvg-name="RBC Canadian Open" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",05:00 AM - RBC Canadian Open [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-rbc-canadian-open-featured-group-1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="RBC Canadian Open" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",05:00 AM - RBC Canadian Open [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-rbc-canadian-open-featured-group-2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ShopRite LPGA Classic" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",05:00 AM - ShopRite LPGA Classic [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-shoprite-lpga-classic/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Buducnost v Partizan Belgrade" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",05:00 AM - Buducnost v Partizan Belgrade [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-buducnost-partizan-belgrade/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pro Motocross Championship, Thunder Valley" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Motor Sports",05:00 AM - Pro Motocross Championship, Thunder Valley [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/pro-motocross-championship-thunder-valley/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ShopRite LPGA Classic, Second Round" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",05:00 AM - ShopRite LPGA Classic, Second Round [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/shoprite-lpga-classic-second-round/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ShopRite LPGA Classic, Second Round" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",05:00 AM - ShopRite LPGA Classic, Second Round [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/shoprite-lpga-classic-second-round-1629444862/1/playlist.m3u8
+#EXTINF:-1 tvg-name="RBC Canadian Open, Third Round on CBS" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",05:00 AM - RBC Canadian Open, Third Round on CBS [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/rbc-canadian-open-third-round-on-cbs/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Almeria v R. Oviedo" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:00 AM - Almeria v R. Oviedo [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/almeria-vs-r-oviedo/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Main Character Jiu Jitsu 7" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",05:00 AM - Main Character Jiu Jitsu 7 [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/main-character-jiu-jitsu-7/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hexagone - Reims, France" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",05:00 AM - Hexagone - Reims, France [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/hexagone-reims-france/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wow FC 20" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",05:00 AM - Wow FC 20 [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/wow-fc-20/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wow FC 20" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",05:00 AM - Wow FC 20 [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/wow-fc-20-1629444861/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Almeria vs Real Oviedo" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzBSQKEPAQht3Q7hMlTMEHxMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",05:00 AM - Almeria vs Real Oviedo [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-almeria-real-oviedo/1/playlist.m3u8
+#EXTINF:-1 tvg-name="British Virgin Islands vs Jamaica" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:00 AM - British Virgin Islands vs Jamaica [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-british-virgin-islands-jamaica/1/playlist.m3u8
+#EXTINF:-1 tvg-name="British Virgin Islands vs Jamaica" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:00 AM - British Virgin Islands vs Jamaica [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/british-virgin-islands-vs-jamaica-1190053/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Anguilla vs El Salvador" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:00 AM - Anguilla vs El Salvador [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-anguilla-el-salvador/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Anguilla vs El Salvador" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:00 AM - Anguilla vs El Salvador [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/anguilla-vs-el-salvador-1190054/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cayman Islands vs Honduras" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:00 AM - Cayman Islands vs Honduras [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-cayman-islands-honduras/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cayman Islands vs Honduras" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:00 AM - Cayman Islands vs Honduras [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/cayman-islands-vs-honduras-1169545/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Trois-Rivières vs Toledo Walleye" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Hockey",05:00 AM - Trois-Rivières vs Toledo Walleye [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-trois-rivieres-lions-toledo-walleye/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Worlds Collide" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrLDdaMBiF4gsICCFMoQ1EOYMnm+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Fight",05:00 AM - Worlds Collide [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/wwe-worlds-collide/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Golden State Valkyries vs Las Vegas Aces" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrzCyyqsCBC8QWEBBAkQ0kCgtXbKFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Basketball",05:00 AM - Golden State Valkyries vs Las Vegas Aces [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/golden-state-valkyries-w-vs-las-vegas-aces-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Golden State Valkyries vs Las Vegas Aces" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrzCyyqsCBC8QWEBBAkQ0kCgtXbKFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Basketball",05:00 AM - Golden State Valkyries vs Las Vegas Aces [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749322800000-las-vegas-aces-w-vs-golden-state-valkyries-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Golden State Valkyries vs Las Vegas Aces" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrzCyyqsCBC8QWEBBAkQ0kCgtXbKFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Basketball",05:00 AM - Golden State Valkyries vs Las Vegas Aces [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/las-vegas-aces-vs-golden-state-valkyries-1629444860/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Olimpia Milano v Virtus Bologna" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",04:45 AM - Olimpia Milano v Virtus Bologna [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/olimpia-milano-vs-virtus-bologna/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Olimpia Milano v Virtus Bologna" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",04:45 AM - Olimpia Milano v Virtus Bologna [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321900000-olimpia-milano-virtus-bologna/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Greece vs Slovakia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLKRB8QvAAwMdWkIhQgSuEFJCmIlgsCQU+w2fRRgVKLh-L0NoryZaMA8xUQggA.webp" group-title="Football",04:45 AM - Greece vs Slovakia [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/greece-vs-slovakia/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Greece vs Slovakia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLKRB8QvAAwMdWkIhQgSuEFJCmIlgsCQU+w2fRRgVKLh-L0NoryZaMA8xUQggA.webp" group-title="Football",04:45 AM - Greece vs Slovakia [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321900000-greece-slovakia/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Greece vs Slovakia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLKRB8QvAAwMdWkIhQgSuEFJCmIlgsCQU+w2fRRgVKLh-L0NoryZaMA8xUQggA.webp" group-title="Football",04:45 AM - Greece vs Slovakia [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/greece-vs-slovakia-1348099/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Albania vs Serbia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtXlDeYadhC8QWEBBAoQ1ENJCJrMAyyQUsIuYxRhVKHp-KNNYt74rMBgnuJiEEA.webp" group-title="Football",04:45 AM - Albania vs Serbia [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/albania-vs-serbia/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Albania vs Serbia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtXlDeYadhC8QWEBBAoQ1ENJCJrMAyyQUsIuYxRhVKHp-KNNYt74rMBgnuJiEEA.webp" group-title="Football",04:45 AM - Albania vs Serbia [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321900000-albania-serbia/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Albania vs Serbia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtXlDeYadhC8QWEBBAoQ1ENJCJrMAyyQUsIuYxRhVKHp-KNNYt74rMBgnuJiEEA.webp" group-title="Football",04:45 AM - Albania vs Serbia [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/albania-vs-serbia-1323269/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Austria vs Romania" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkjph+wSCF4gsICCBQhqIaSEQmQIEi00wBIuYxRhVKHp-KNqct74rLqe4mIQQA.webp" group-title="Football",04:45 AM - Austria vs Romania [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/austria-vs-romania/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Austria vs Romania" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkjph+wSCF4gsICCBQhqIaSEQmQIEi00wBIuYxRhVKHp-KNqct74rLqe4mIQQA.webp" group-title="Football",04:45 AM - Austria vs Romania [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321900000-austria-romania/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Austria vs Romania" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkjph+wSCF4gsICCBQhqIaSEQmQIEi00wBIuYxRhVKHp-KNqct74rLqe4mIQQA.webp" group-title="Football",04:45 AM - Austria vs Romania [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/austria-vs-romania-1323268/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Finland vs Netherlands" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF4IQYsHJCaQWEBBAoQ1ENJCJjllCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",04:45 AM - Finland vs Netherlands [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/finland-vs-netherlands/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Finland vs Netherlands" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF4IQYsHJCaQWEBBAoQ1ENJCJjllCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",04:45 AM - Finland vs Netherlands [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321900000-finland-netherlands/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Finland vs Netherlands" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF4IQYsHJCaQWEBBAoQ1ENJCJjllCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",04:45 AM - Finland vs Netherlands [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/finland-vs-netherlands-1366275/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Belmont Stakes Prep" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",04:30 AM - Belmont Stakes Prep [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321000000-belmont-stakes-prep/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tremblay v Nantes" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",04:30 AM - Tremblay v Nantes [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321000000-tremblay-nantes/1/playlist.m3u8
+#EXTINF:-1 tvg-name="St. Raphael v Nimes" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",04:30 AM - St. Raphael v Nimes [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321000000-st-raphael-nimes/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Istres v Cesson Rennes-Metropole" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",04:30 AM - Istres v Cesson Rennes-Metropole [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321000000-istres-cesson-rennes-metropole/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Dunkerque v Limoges" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",04:30 AM - Dunkerque v Limoges [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321000000-dunkerque-limoges/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Creteil v Toulouse" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",04:30 AM - Creteil v Toulouse [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321000000-creteil-toulouse/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Chartres v Ivry" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",04:30 AM - Chartres v Ivry [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321000000-chartres-ivry/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Aix v Montpellier" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",04:30 AM - Aix v Montpellier [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321000000-aix-montpellier/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FCC 42" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",04:30 AM - FCC 42 [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321000000-fcc-42/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Villa San Carlos v San Martin Burzaco" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",04:30 AM - Villa San Carlos v San Martin Burzaco [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321000000-villa-san-carlos-san-martin-burzaco/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Excursionistas v Fenix" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",04:30 AM - Excursionistas v Fenix [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321000000-excursionistas-fenix/1/playlist.m3u8
+#EXTINF:-1 tvg-name="PSG v Chambery Savoie" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",04:30 AM - PSG v Chambery Savoie [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/psg-vs-chambery-savoie/1/playlist.m3u8
+#EXTINF:-1 tvg-name="PSG v Chambery Savoie" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",04:30 AM - PSG v Chambery Savoie [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321000000-psg-chambery-savoie/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Belmont Stakes Festival Friday" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",04:30 AM - Belmont Stakes Festival Friday [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/belmont-stakes-festival-friday/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FCC 42" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",04:30 AM - FCC 42 [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/fcc-42/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Argentino de Merlo vs Argentino de Quilmes" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",04:30 AM - Argentino de Merlo vs Argentino de Quilmes [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321000000-argentino-de-merlo-argentino-de-quilmes/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Acassuso vs Flandria" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",04:30 AM - Acassuso vs Flandria [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321000000-acassuso-flandria/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sportivo Italiano vs Liniers" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",04:30 AM - Sportivo Italiano vs Liniers [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321000000-sportivo-italiano-liniers/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Dock Sud vs Sacachispas" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",04:30 AM - Dock Sud vs Sacachispas [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749321000000-dock-sud-sacachispas/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cannes – Longines Global Champions Tour Grand Prix" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",04:22 AM - Cannes – Longines Global Champions Tour Grand Prix [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/cannes-longines-global-champions-tour-grand-prix/1/playlist.m3u8
+#EXTINF:-1 tvg-name="St. Louis Cardinals vs Los Angeles Dodgers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvSgkQsxmhC8QWEBBBnj0kChAwQieCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Baseball",04:15 AM - St. Louis Cardinals vs Los Angeles Dodgers [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/st-louis-cardinals-vs-los-angeles-dodgers/1/playlist.m3u8
+#EXTINF:-1 tvg-name="St. Louis Cardinals vs Los Angeles Dodgers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvSgkQsxmhC8QWEBBBnj0kChAwQieCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Baseball",04:15 AM - St. Louis Cardinals vs Los Angeles Dodgers [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749320100000-los-angeles-dodgers-vs-st-louis-cardinals/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Minnesota Twins vs Toronto Blue Jays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvxxYQKSkxC8Q2iCFPbpOkDBDUQ8FkgpYRcxijCrdHD+UbU5uviswGAe4mIQQA.webp" group-title="Baseball",04:10 AM - Minnesota Twins vs Toronto Blue Jays [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/minnesota-twins-vs-toronto-blue-jays/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Minnesota Twins vs Toronto Blue Jays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvxxYQKSkxC8Q2iCFPbpOkDBDUQ8FkgpYRcxijCrdHD+UbU5uviswGAe4mIQQA.webp" group-title="Baseball",04:10 AM - Minnesota Twins vs Toronto Blue Jays [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749319800000-toronto-blue-jays-vs-minnesota-twins/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Minnesota Twins vs Toronto Blue Jays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvxxYQKSkxC8Q2iCFPbpOkDBDUQ8FkgpYRcxijCrdHD+UbU5uviswGAe4mIQQA.webp" group-title="Baseball",04:10 AM - Minnesota Twins vs Toronto Blue Jays [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/toronto-blue-jays-vs-minnesota-twins-1629444853/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cincinnati Reds vs Arizona Diamondbacks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYmIXiGoh6+HSCwgIIC6ekgUIGHbMskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="Baseball",04:10 AM - Cincinnati Reds vs Arizona Diamondbacks [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749319800000-game-1-arizona-diamondbacks-vs-cincinnati-reds/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Danubio v Montevideo City" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",04:00 AM - Danubio v Montevideo City [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749319200000-danubio-montevideo-city/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sao Paulo U20 v Portuguesa Santista U20" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",04:00 AM - Sao Paulo U20 v Portuguesa Santista U20 [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749319200000-sao-paulo-u20-portuguesa-santista-u20/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rio Claro U20 v Corinthians U20" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",04:00 AM - Rio Claro U20 v Corinthians U20 [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749319200000-rio-claro-u20-corinthians-u20/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Mirassol U20 v Santos U20" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",04:00 AM - Mirassol U20 v Santos U20 [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749319200000-mirassol-u20-santos-u20/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Brown Adrogue v Villa Dalmine" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",04:00 AM - Brown Adrogue v Villa Dalmine [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749319200000-brown-adrogue-villa-dalmine/1/playlist.m3u8
+#EXTINF:-1 tvg-name="West Virginia v LSU" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Baseball",04:00 AM - West Virginia v LSU [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749319200000-west-virginia-vs-lsu/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Nottinghamshire v Worcestershire" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Cricket",04:00 AM - Nottinghamshire v Worcestershire [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/nottinghamshire-vs-worcestershire/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bayern v Heidelberg" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",04:00 AM - Bayern v Heidelberg [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/bayern-vs-heidelberg/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bayern v Heidelberg" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",04:00 AM - Bayern v Heidelberg [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749319200000-bayern-munich-heidelberg/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Callum Simpson v Ivan Zucco" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",04:00 AM - Callum Simpson v Ivan Zucco [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/callum-simpson-vs-ivan-zucco/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Callum Simpson v Ivan Zucco" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",04:00 AM - Callum Simpson v Ivan Zucco [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749319200000-callum-simpson-vs-ivan-zucco/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Danubio vs Montevideo City Torque" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUXzAgGoEBBDcQUkCeMoQMCyHN89BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football",04:00 AM - Danubio vs Montevideo City Torque [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/danubio-vs-montevideo-city-torque/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fabio Wardley v Justis Huni" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",03:50 AM - Fabio Wardley v Justis Huni [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/fabio-wardley-vs-justis-huni/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fabio Wardley v Justis Huni" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",03:50 AM - Fabio Wardley v Justis Huni [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749317400000-fabio-wardley-vs-justis-huni/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Bari Todoni v Parrizas-Diaz" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",03:30 AM - WTA Bari Todoni v Parrizas-Diaz [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749317400000-wta-bari-todoni-parrizas-diaz/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Brave CF 96 | Ljubljana, Slovenia" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",03:30 AM - Brave CF 96 | Ljubljana, Slovenia [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/brave-cf-96-ljubljana-slovenia/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Oktagon 28 - Courmayeur" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",03:30 AM - Oktagon 28 - Courmayeur [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/oktagon-28-courmayeur/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Philippe-Chatrier: Horacio Zeballos/Marcel Granollers v Neal Skupski/Joe Salisbury" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",03:10 AM - Philippe-Chatrier: Horacio Zeballos/Marcel Granollers v Neal Skupski/Joe Salisbury [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/philippe-chatrier-horacio-zeballos-marcel-granollers-vs-neal-skupski-joe-salisbury/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Detroit Tigers vs Chicago Cubs" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDGIYILJrDSQvXSAghzewyhA7EKFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",03:10 AM - Detroit Tigers vs Chicago Cubs [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/detroit-tigers-vs-chicago-cubs/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Detroit Tigers vs Chicago Cubs" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDGIYILJrDSQvXSAghzewyhA7EKFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",03:10 AM - Detroit Tigers vs Chicago Cubs [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749316200000-chicago-cubs-vs-detroit-tigers/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Detroit Tigers vs Chicago Cubs" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDGIYILJrDSQvXSAghzewyhA7EKFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",03:10 AM - Detroit Tigers vs Chicago Cubs [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/chicago-cubs-vs-detroit-tigers-1629444851/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wardley vs. Huni" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",03:00 AM - Wardley vs. Huni [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/wardley-vs-huni-1629444855/1/playlist.m3u8
+#EXTINF:-1 tvg-name="LIV Golf Virginia - Day 2" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",03:00 AM - LIV Golf Virginia - Day 2 [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/liv-golf-virginia-day-2-1629444852/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NJ/NY Gotham FC W v Kansas City W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",03:00 AM - NJ/NY Gotham FC W v Kansas City W [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/njny-gotham-fc-w-vs-kansas-city-w-1339318/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Murray State v Duke" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Baseball",03:00 AM - Murray State v Duke [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749315600000-murray-state-vs-duke/1/playlist.m3u8
+#EXTINF:-1 tvg-name="RBC Canadian Open" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",03:00 AM - RBC Canadian Open [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749315600000-rbc-canadian-open/1/playlist.m3u8
+#EXTINF:-1 tvg-name="RBC Canadian Open" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",03:00 AM - RBC Canadian Open [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749315600000-rbc-canadian-open-featured-group-2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="RBC Canadian Open" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",03:00 AM - RBC Canadian Open [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749315600000-rbc-canadian-open-featured-group-1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="LIV Golf League: Virginia" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",03:00 AM - LIV Golf League: Virginia [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749315600000-liv-golf-league-virginia/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Nordic Darts Masters" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Darts",03:00 AM - Nordic Darts Masters [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749315600000-nordic-darts-masters/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Nordic Darts Masters - Day 2" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Darts",03:00 AM - Nordic Darts Masters - Day 2 [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/nordic-darts-masters-day-2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="RBC Canadian Open: Featured Hole #14 (Third Round)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",03:00 AM - RBC Canadian Open: Featured Hole #14 (Third Round) [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/rbc-canadian-open-featured-hole-14-third-round/1/playlist.m3u8
+#EXTINF:-1 tvg-name="RBC Canadian Open: Featured Group 2 (Third Round)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",03:00 AM - RBC Canadian Open: Featured Group 2 (Third Round) [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/rbc-canadian-open-featured-group-2-third-round/1/playlist.m3u8
+#EXTINF:-1 tvg-name="RBC Canadian Open: Featured Group 1 (Third Round)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",03:00 AM - RBC Canadian Open: Featured Group 1 (Third Round) [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/rbc-canadian-open-featured-group-1-third-round/1/playlist.m3u8
+#EXTINF:-1 tvg-name="RBC Canadian Open: Featured Hole #11 (Third Round)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",03:00 AM - RBC Canadian Open: Featured Hole #11 (Third Round) [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/rbc-canadian-open-featured-hole-11-third-round/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Virginia, Round Two" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",03:00 AM - Virginia, Round Two [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/virginia-round-two/1/playlist.m3u8
+#EXTINF:-1 tvg-name="RBC Canadian Open, Third Round" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",03:00 AM - RBC Canadian Open, Third Round [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/rbc-canadian-open-third-round/1/playlist.m3u8
+#EXTINF:-1 tvg-name="MotoGP Qualifying | MotoGP Main Race" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",MotoGP Qualifying | MotoGP Main Race
+https://rr.vipstreams.in/Alpha/js/motogp-qualifying-motogp-main-race/1/playlist.m3u8
+#EXTINF:-1 tvg-name="DAZN Formula 1 | DAZN F1" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",DAZN Formula 1 | DAZN F1
+https://rr.vipstreams.in/Alpha/js/dazn-formula-1-dazn-f1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports F1 | Sky F1" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Sky Sports F1 | Sky F1
+https://rr.vipstreams.in/Alpha/js/sky-sports-f1-sky-f1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Sky Sports Darts
+https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Darts TV: All Darts Championship
+https://rr.vipstreams.in/Alpha/js/darts-tv-all-darts-championship/1/playlist.m3u8
+#EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",MLB Network
+https://rr.vipstreams.in/Alpha/js/mlb-network/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Sky Sports Golf
+https://rr.vipstreams.in/Alpha/js/sky-sports-golf/1/playlist.m3u8
+#EXTINF:-1 tvg-name="PGA Tour 2025" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",PGA Tour 2025
+https://rr.vipstreams.in/Alpha/js/pga-tour-2025/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NBC Golf Channel" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",NBC Golf Channel
+https://rr.vipstreams.in/Alpha/js/nbc-golf-channel/1/playlist.m3u8
+#EXTINF:-1 tvg-name="French Open" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",French Open
+https://rr.vipstreams.in/Alpha/js/french-open/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Tennis Channel
+https://rr.vipstreams.in/Alpha/js/tennis-channel/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fox NRL TV" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Fox NRL TV
+https://rr.vipstreams.in/Alpha/js/fox-nrl-tv/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports News | SSN Breaking Sports News" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Sky Sports News | SSN Breaking Sports News
+https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN First Take" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",ESPN First Take
+https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",NBA TV
+https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",WWE Network
+https://rr.vipstreams.in/Alpha/js/wwe-network/1/playlist.m3u8
+#EXTINF:-1 tvg-name="DAZN Boxing | DAZN PPV Boxing" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",DAZN Boxing | DAZN PPV Boxing
+https://rr.vipstreams.in/Alpha/js/dazn-boxing-dazn-ppv-boxing/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FITE TV | PBC Boxing" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",FITE TV | PBC Boxing
+https://rr.vipstreams.in/Alpha/js/fite-tv-pbc-boxing/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UFC Events | UFC MMA | UFC PPV" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",UFC Events | UFC MMA | UFC PPV
+https://rr.vipstreams.in/Alpha/js/ufc-events-ufc-mma-ufc-ppv/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WWE PPV Events" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",WWE PPV Events
+https://rr.vipstreams.in/Alpha/js/wwe-ppv-events/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",NHL Network
+https://rr.vipstreams.in/Alpha/js/nhl-network/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",NFL Network
+https://rr.vipstreams.in/Alpha/js/nfl-network/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",ESPN
+https://rr.vipstreams.in/Alpha/js/espn/1/playlist.m3u8
+#EXTINF:-1 tvg-name="San Francisco Giants vs Atlanta Braves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKik4hEIELWoheILCAi7jIaSBQgY2yyyQUsIuYxRhVmjp-KNqcpr4rMBgnuJiEEA.webp" group-title="Baseball",06:05 AM - San Francisco Giants vs Atlanta Braves [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/san-francisco-giants-vs-atlanta-braves/1/playlist.m3u8
+#EXTINF:-1 tvg-name="San Francisco Giants vs Atlanta Braves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKik4hEIELWoheILCAi7jIaSBQgY2yyyQUsIuYxRhVmjp-KNqcpr4rMBgnuJiEEA.webp" group-title="Baseball",06:05 AM - San Francisco Giants vs Atlanta Braves [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749326700000-atlanta-braves-vs-san-francisco-giants/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Washington Nationals vs Texas Rangers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihCaSIfgAZgYXSCwgIIC6elaQMENQsskFLCLmMUYVSh5fyjajkffFZDL3ExCCA.webp" group-title="Baseball",06:05 AM - Washington Nationals vs Texas Rangers [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/washington-nationals-vs-texas-rangers/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Washington Nationals vs Texas Rangers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihCaSIfgAZgYXSCwgIIC6elaQMENQsskFLCLmMUYVSh5fyjajkffFZDL3ExCCA.webp" group-title="Baseball",06:05 AM - Washington Nationals vs Texas Rangers [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749326700000-texas-rangers-vs-washington-nationals/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pittsburgh Pirates vs Philadelphia Phillies" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvVnSwYnCBC8QWEBH1GQ0kChAwQ1CyyQUsIuYxQ6OKHjvKNqct74rMBgnoxiEEA.webp" group-title="Baseball",06:05 AM - Pittsburgh Pirates vs Philadelphia Phillies [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/pittsburgh-pirates-vs-philadelphia-phillies/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pittsburgh Pirates vs Philadelphia Phillies" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvVnSwYnCBC8QWEBH1GQ0kChAwQ1CyyQUsIuYxQ6OKHjvKNqct74rMBgnoxiEEA.webp" group-title="Baseball",06:05 AM - Pittsburgh Pirates vs Philadelphia Phillies [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749326700000-philadelphia-phillies-vs-pittsburgh-pirates/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Chicago White Sox vs Kansas City Royals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoWk0OIeiBC8QWEBH1GQ0kChAwT+lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",06:10 AM - Chicago White Sox vs Kansas City Royals [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/chicago-white-sox-vs-kansas-city-royals/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Chicago White Sox vs Kansas City Royals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoWk0OIeiBC8QWEBH1GQ0kChAwT+lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",06:10 AM - Chicago White Sox vs Kansas City Royals [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749327000000-kansas-city-royals-vs-chicago-white-sox/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cincinnati Reds vs Arizona Diamondbacks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGrcADCGlgQDELxBYQEEJbPSQKEDHN6WSClhFzGKMKpQ9v5Ri0xX3xWYDBvcTEIIA.webp" group-title="Baseball",06:10 AM - Cincinnati Reds vs Arizona Diamondbacks [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/cincinnati-reds-vs-arizona-diamondbacks/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cincinnati Reds vs Arizona Diamondbacks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGrcADCGlgQDELxBYQEEJbPSQKEDHN6WSClhFzGKMKpQ9v5Ri0xX3xWYDBvcTEIIA.webp" group-title="Baseball",06:10 AM - Cincinnati Reds vs Arizona Diamondbacks [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749327000000-game-2-arizona-diamondbacks-vs-cincinnati-reds/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cleveland Guardians vs Houston Astros" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlhDUmHECk4heITRBBnN0vSBghT8FkgpYRcxijCr9HD+Ubax+viswGAe4mIQQA.webp" group-title="Baseball",06:10 AM - Cleveland Guardians vs Houston Astros [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/cleveland-guardians-vs-houston-astros/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cleveland Guardians vs Houston Astros" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlhDUmHECk4heITRBBnN0vSBghT8FkgpYRcxijCr9HD+Ubax+viswGAe4mIQQA.webp" group-title="Baseball",06:10 AM - Cleveland Guardians vs Houston Astros [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749327000000-houston-astros-vs-cleveland-guardians/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tampa Bay Rays vs Miami Marlins" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjFIhqcnaF4gsICCFNHpIFCBghEk-MCQUsIuYxRhVKHp-KMdYt4O9GCe4mIQQA.webp" group-title="Baseball",06:10 AM - Tampa Bay Rays vs Miami Marlins [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/tampa-bay-rays-vs-miami-marlins/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tampa Bay Rays vs Miami Marlins" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjFIhqcnaF4gsICCFNHpIFCBghEk-MCQUsIuYxRhVKHp-KMdYt4O9GCe4mIQQA.webp" group-title="Baseball",06:10 AM - Tampa Bay Rays vs Miami Marlins [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749327000000-miami-marlins-vs-tampa-bay-rays/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sampaio Correa v Ceara" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:30 AM - Sampaio Correa v Ceara [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/sampaio-correa-vs-ceara/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sampaio Correa v Ceara" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:30 AM - Sampaio Correa v Ceara [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749328200000-sampaio-correa-ceara/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bahia v Nautico" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:30 AM - Bahia v Nautico [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/bahia-vs-nautico/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bahia v Nautico" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:30 AM - Bahia v Nautico [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749328200000-ec-bahia-nautico/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Juazeirense v Confianca" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:30 AM - Juazeirense v Confianca [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/juazeirense-vs-confianca/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Juazeirense v Confianca" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:30 AM - Juazeirense v Confianca [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749328200000-juazeirense-confianca/1/playlist.m3u8
+#EXTINF:-1 tvg-name="America RN v CSA" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:30 AM - America RN v CSA [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/america-rn-vs-csa/1/playlist.m3u8
+#EXTINF:-1 tvg-name="America RN v CSA" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:30 AM - America RN v CSA [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749328200000-america-rn-csa/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wanderers v Plaza Colonia" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:30 AM - Wanderers v Plaza Colonia [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/wanderers-vs-plaza-colonia/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Montevideo Wanderers vs Plaza Colonia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlBIhq8ykxC8QWEBBBmYRk5ZQgULJBSwi5jFGFUoe78ox1jP+KzAYO7iYhBAA.webp" group-title="Football",06:30 AM - Montevideo Wanderers vs Plaza Colonia [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749328200000-montevideo-wanderers-plaza-colonia/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tournament of Survival X" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",07:00 AM - Tournament of Survival X [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/tournament-of-survival-x-1629444872/1/playlist.m3u8
+#EXTINF:-1 tvg-name="SA Bulo Bulo v Aurora" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",07:00 AM - SA Bulo Bulo v Aurora [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749330000000-sa-bulo-bulo-aurora/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Jaguares de Cordoba v Cartagena" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",07:00 AM - Jaguares de Cordoba v Cartagena [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749330000000-jaguares-de-cordoba-cartagena/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Internacional W v America Mineiro W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",07:00 AM - Internacional W v America Mineiro W [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749330000000-internacional-w-america-mineiro-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennessee v Arkansas" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Baseball",07:00 AM - Tennessee v Arkansas [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749330000000-tennessee-vs-arkansas/1/playlist.m3u8
+#EXTINF:-1 tvg-name="BMW Charity Pro-Am, Third Round" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",07:00 AM - BMW Charity Pro-Am, Third Round [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/bmw-charity-pro-am-third-round/1/playlist.m3u8
+#EXTINF:-1 tvg-name="BMW Charity Pro-Am, Third Round" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",07:00 AM - BMW Charity Pro-Am, Third Round [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/bmw-charity-pro-am-third-round-1629444873/1/playlist.m3u8
+#EXTINF:-1 tvg-name="The Soccer Tournament - Men's Bracket (Quarterfinals)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",07:00 AM - The Soccer Tournament - Men's Bracket (Quarterfinals) [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/the-soccer-tournament-men-s-bracket-quarterfinals/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Justin Pauldo v Juan Carlos Burgos" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",07:00 AM - Justin Pauldo v Juan Carlos Burgos [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/justin-pauldo-vs-juan-carlos-burgos/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Justin Pauldo v Juan Carlos Burgos" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",07:00 AM - Justin Pauldo v Juan Carlos Burgos [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749330000000-justin-pauldo-vs-juan-carlos-burgos/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Justin Pauldo v Juan Carlos Burgos" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",07:00 AM - Justin Pauldo v Juan Carlos Burgos [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/justin-pauldo-vs-juan-carlos-burgos-1629444874/1/playlist.m3u8
+#EXTINF:-1 tvg-name="GCW: Tournament of Survival X" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",07:00 AM - GCW: Tournament of Survival X [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/gcw-tournament-of-survival-x/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Thomas O'Toole v Vaughn Alexander" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",07:00 AM - Thomas O'Toole v Vaughn Alexander [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/thomas-o-toole-vs-vaughn-alexander/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Aruba vs Haiti" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",07:00 AM - Aruba vs Haiti [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/aruba-vs-haiti/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Aruba vs Haiti" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",07:00 AM - Aruba vs Haiti [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749330000000-aruba-haiti/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Money in the Bank" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",07:30 AM - Money in the Bank [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/money-in-the-bank-1629444875/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Countdown to WWE Money in the Bank" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",07:30 AM - Countdown to WWE Money in the Bank [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749331800000-countdown-to-wwe-money-in-the-bank/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Money in the Bank 2025" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",07:30 AM - Money in the Bank 2025 [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/money-in-the-bank-2025/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Deportes Temuco vs Audax Italiano" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",07:30 AM - Deportes Temuco vs Audax Italiano [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749331800000-deportes-temuco-audax-italiano/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Carabobo vs Metropolitanos" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",07:30 AM - Carabobo vs Metropolitanos [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749331800000-carabobo-metropolitanos/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UFC 316: FIGHT PASS PRELIMS" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",08:00 AM - UFC 316: FIGHT PASS PRELIMS [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/ufc-316-fight-pass-prelims-1629444876/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Belmont Stakes" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",08:00 AM - Belmont Stakes [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749333600000-belmont-stakes/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UFC 316: Dvalishvili v O'Malley 2 Early Prelims" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",08:00 AM - UFC 316: Dvalishvili v O'Malley 2 Early Prelims [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749333600000-ufc-316-dvalishvili-vs-o-malley-2-early-prelims/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Loudoun v Charleston Battery" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",08:00 AM - Loudoun v Charleston Battery [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749333600000-loudoun-charleston-battery/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Abdullah Mason v Jeremia Nakathila v Undercards" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",08:00 AM - Abdullah Mason v Jeremia Nakathila v Undercards [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749333600000-abdullah-mason-vs-jeremia-nakathila-undercards/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pacific FC v Atl. Ottawa" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",08:00 AM - Pacific FC v Atl. Ottawa [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/pacific-fc-vs-atl-ottawa/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UFC 316: Early Prelims" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",08:00 AM - UFC 316: Early Prelims [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/ufc-316-early-prelims/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Top Rank Boxing: Keyshawn Davis v Edwin De Los Santos" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",08:00 AM - Top Rank Boxing: Keyshawn Davis v Edwin De Los Santos [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/top-rank-boxing-keyshawn-davis-vs-edwin-de-los-santos/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pacific FC vs Atlético Ottawa" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOCn7ZKIbrpBSQEIyBIhzMEIkMgCwJBT7DZ9FGBWa278vSyzNTLRg7mKiEEA.webp" group-title="Football",08:00 AM - Pacific FC vs Atlético Ottawa [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749333600000-pacific-fc-atletico-ottawa/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pacific FC vs Atlético Ottawa" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOCn7ZKIbrpBSQEIyBIhzMEIkMgCwJBT7DZ9FGBWa278vSyzNTLRg7mKiEEA.webp" group-title="Football",08:00 AM - Pacific FC vs Atlético Ottawa [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/pacific-fc-vs-atletico-ottawa-1350726/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Loudoun United vs Charleston Battery" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENw2UwZKDk1SQfECeMwQ5nBFwFgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp" group-title="Football",08:00 AM - Loudoun United vs Charleston Battery [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/loudoun-united-vs-charleston-battery-1327093/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Deportivo Morón vs Colón" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",08:10 AM - Deportivo Morón vs Colón [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/deportivo-moron-vs-colon-santa-fe/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Deportivo Morón vs Colón" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",08:10 AM - Deportivo Morón vs Colón [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749334200000-deportivo-moron-colon-santa-fe/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Mike Santana Presents Puerto Rican Weekend" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",08:30 AM - Mike Santana Presents Puerto Rican Weekend [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/mike-santana-presents-puerto-rican-weekend-1629444877/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Vermont Mountaineers v Upper Valley Nighthawks" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Baseball",08:30 AM - Vermont Mountaineers v Upper Valley Nighthawks [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/vermont-mountaineers-vs-upper-valley-nighthawks/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Martha's Vineyard Sharks v Keene Swamp Bats" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Baseball",08:30 AM - Martha's Vineyard Sharks v Keene Swamp Bats [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/martha-s-vineyard-sharks-vs-keene-swamp-bats/1/playlist.m3u8
+#EXTINF:-1 tvg-name="North Shore Navigators v Valley Blue Sox" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Baseball",08:30 AM - North Shore Navigators v Valley Blue Sox [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/north-shore-navigators-vs-valley-blue-sox/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Beatriz Ferreira v Maria Ines Ferreyra: Prelims" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",08:30 AM - Beatriz Ferreira v Maria Ines Ferreyra: Prelims [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/beatriz-ferreira-vs-maria-ines-ferreyra-prelims/1/playlist.m3u8
+#EXTINF:-1 tvg-name="House of Glory: Mike Santana Presents Puerto Rican Weekend 2025" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",08:30 AM - House of Glory: Mike Santana Presents Puerto Rican Weekend 2025 [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/house-of-glory-mike-santana-presents-puerto-rican-weekend-2025/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kenosha Kingfish v Kalamazoo Growlers5" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Baseball",08:35 AM - Kenosha Kingfish v Kalamazoo Growlers5 [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/kenosha-kingfish-vs-kalamazoo-growlers5/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ronaldinho v Roberto Carlos" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",08:55 AM - Ronaldinho v Roberto Carlos [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/ronaldinho-vs-roberto-carlos/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ronaldinho v Roberto Carlos" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",08:55 AM - Ronaldinho v Roberto Carlos [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749337200000-the-beautiful-game-team-ronaldinho-vs-team-roberto-carlos/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Medieval Cage Fighting Championship, Hall of Fame Village" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",09:00 AM - Medieval Cage Fighting Championship, Hall of Fame Village [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/medieval-cage-fighting-championship-hall-of-fame-village-1629444878/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Greenville Triumph v Naples" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",09:00 AM - Greenville Triumph v Naples [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/greenville-triumph-vs-naples-1326819/1/playlist.m3u8
+#EXTINF:-1 tvg-name="California Redwoods v Carolina Chaos" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",09:00 AM - California Redwoods v Carolina Chaos [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749337200000-california-redwoods-vs-carolina-chaos/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WWE Money in the Bank" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",09:00 AM - WWE Money in the Bank [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749337200000-wwe-money-in-the-bank/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pittsburgh Riverhounds SC v Detroit" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",09:00 AM - Pittsburgh Riverhounds SC v Detroit [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749337200000-pittsburgh-riverhounds-sc-detroit/1/playlist.m3u8
+#EXTINF:-1 tvg-name="US Women v Streetball FC Canada W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",09:00 AM - US Women v Streetball FC Canada W [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749337200000-us-women-streetball-fc-canada-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Chico v Boca Juniors" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",09:00 AM - Chico v Boca Juniors [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749337200000-chico-boca-juniors/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UTSA v UCLA" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Baseball",09:00 AM - UTSA v UCLA [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749337200000-utsa-vs-ucla/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NHRA Thunder Valley Nationals Qualifying Show 2" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Motor Sports",09:00 AM - NHRA Thunder Valley Nationals Qualifying Show 2 [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/nhra-thunder-valley-nationals-qualifying-show-2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Swimming National Champs: Day 5" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",09:00 AM - Swimming National Champs: Day 5 [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/swimming-national-champs-day-5/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NOLA Gold v New England Free Jacks" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Rugby",09:00 AM - NOLA Gold v New England Free Jacks [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/nola-gold-vs-new-england-free-jacks/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NOLA Gold v New England Free Jacks" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Rugby",09:00 AM - NOLA Gold v New England Free Jacks [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749337200000-nola-gold-new-england-free-jacks/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NOLA Gold v New England Free Jacks" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Rugby",09:00 AM - NOLA Gold v New England Free Jacks [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/nola-gold-vs-new-england-free-jacks-1629444879/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Armored MMA 2025: Medieval Cage Fighting Championship, Hall of Fame Village" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",09:00 AM - Armored MMA 2025: Medieval Cage Fighting Championship, Hall of Fame Village [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/armored-mma-2025-medieval-cage-fighting-championship-hall-of-fame-village/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Mickey Bey v Tobias Green" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",09:00 AM - Mickey Bey v Tobias Green [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/mickey-bey-vs-tobias-green/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Calgary Stampeders v Hamilton Tiger-Cats" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="American Football",09:00 AM - Calgary Stampeders v Hamilton Tiger-Cats [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/calgary-stampeders-vs-hamilton-tiger-cats/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Calgary Stampeders v Hamilton Tiger-Cats" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="American Football",09:00 AM - Calgary Stampeders v Hamilton Tiger-Cats [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749337200000-hamilton-tiger-cats-vs-calgary-stampeders/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Peñarol vs Defensor Sporting" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELTCwQMsCBIhuOkCakgUIGJfMnLBYEgp9hs+ijAqUXD+XpZZXkyaHmKiEEA.webp" group-title="Football",09:00 AM - Peñarol vs Defensor Sporting [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/penarol-vs-defensor-sporting/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Peñarol vs Defensor Sporting" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELTCwQMsCBIhuOkCakgUIGJfMnLBYEgp9hs+ijAqUXD+XpZZXkyaHmKiEEA.webp" group-title="Football",09:00 AM - Peñarol vs Defensor Sporting [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749337200000-penarol-defensor-sporting/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bahamas vs Costa Rica" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",09:00 AM - Bahamas vs Costa Rica [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/bahamas-vs-costa-rica/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bahamas vs Costa Rica" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",09:00 AM - Bahamas vs Costa Rica [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749337200000-bahamas-costa-rica/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New Zealand vs Ivory Coast" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlUFJ5IabpC8QWEBCMhzJENRCJDzfMCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Football",09:00 AM - New Zealand vs Ivory Coast [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749337200000-new-zealand-ivory-coast/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Chattanooga FC vs Inter Miami II" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeGBByeDEIm4g+ekCf0ncIAzALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football",09:00 AM - Chattanooga FC vs Inter Miami II [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749337200000-chattanooga-inter-miami-ii/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Orlando Pride vs Houston Dash" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reljAgQ9MHRDcQfHbgNnjKEDFwFgSCn2Gz6KMCpRc35DbI9NaYG5iohBAA.webp" group-title="Football",09:00 AM - Orlando Pride vs Houston Dash [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/orlando-pride-w-vs-houston-dash-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Orlando Pride vs Houston Dash" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reljAgQ9MHRDcQfHbgNnjKEDFwFgSCn2Gz6KMCpRc35DbI9NaYG5iohBAA.webp" group-title="Football",09:00 AM - Orlando Pride vs Houston Dash [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749337200000-orlando-pride-w-houston-dash-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Richmond Kickers vs Texoma" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECHZhNTLAxDcQfEIhQgIJkGcQarTJBT7DZ9FGBUou78vT2jPTLRg7mKiEEA.webp" group-title="Football",09:00 AM - Richmond Kickers vs Texoma [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749337200000-richmond-kickers-texoma/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Richmond Kickers vs Texoma" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECHZhNTLAxDcQfEIhQgIJkGcQarTJBT7DZ9FGBUou78vT2jPTLRg7mKiEEA.webp" group-title="Football",09:00 AM - Richmond Kickers vs Texoma [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/richmond-kickers-vs-texoma-1326820/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Greenville Triumph vs FC Naples" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMOSi0kDENxB8QiFCAhGQJxCGsFgSCn2Gz6KMCpRc3mhrI9NaGqL0QUA.webp" group-title="Football",09:00 AM - Greenville Triumph vs FC Naples [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749337200000-greenville-triumph-sc-fc-naples/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Chattanooga Red Wolves vs Portland Hearts of Pine" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8Veqz4gZYEHu4gtiFCAghj5vdoLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football",09:00 AM - Chattanooga Red Wolves vs Portland Hearts of Pine [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749337200000-chattanooga-red-wolves-portland-hearts-of-pine/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Chattanooga Red Wolves vs Portland Hearts of Pine" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8Veqz4gZYEHu4gtiFCAghj5vdoLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football",09:00 AM - Chattanooga Red Wolves vs Portland Hearts of Pine [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/chattanooga-red-wolves-vs-portland-hearts-of-pine-1326817/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Westchester SC vs One Knoxville SC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiBjMwvAAywQ3EHxCIUICKZDnEIECQLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Football",09:00 AM - Westchester SC vs One Knoxville SC [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/westchester-sc-vs-one-knoxville/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Westchester SC vs One Knoxville SC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiBjMwvAAywQ3EHxCIUICKZDnEIECQLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Football",09:00 AM - Westchester SC vs One Knoxville SC [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749337200000-westchester-sc-one-knoxville/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Westchester SC vs One Knoxville SC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiBjMwvAAywQ3EHxCIUICKZDnEIECQLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Football",09:00 AM - Westchester SC vs One Knoxville SC [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/westchester-sc-vs-one-knoxville-1326816/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rhode Island FC vs Miami FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEAyI5wEENxB8QunDl0hcIGCBQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",09:00 AM - Rhode Island FC vs Miami FC [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/rhode-island-vs-miami-fc/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rhode Island FC vs Miami FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEAyI5wEENxB8QunDl0hcIGCBQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",09:00 AM - Rhode Island FC vs Miami FC [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749337200000-rhode-island-miami-fc/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rhode Island FC vs Miami FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEAyI5wEENxB8QunDl0hcIGCBQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",09:00 AM - Rhode Island FC vs Miami FC [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/rhode-island-vs-miami-fc-1327100/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pittsburgh Riverhounds vs Detroit City FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGVFJQsBCG4gpIPiFMmYICwaMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",09:00 AM - Pittsburgh Riverhounds vs Detroit City FC [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/pittsburgh-riverhounds-vs-detroit-city/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pittsburgh Riverhounds vs Detroit City FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGVFJQsBCG4gpIPiFMmYICwaMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",09:00 AM - Pittsburgh Riverhounds vs Detroit City FC [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/pittsburgh-riverhounds-vs-detroit-city-1327099/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bismarck Larks v St. Cloud Rox" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Baseball",09:05 AM - Bismarck Larks v St. Cloud Rox [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/bismarck-larks-vs-st-cloud-rox/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Deportes Tolima vs América de Cali" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXvUQgQMUCG4gpIPtpAQQiIzBAoQJAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Football",09:15 AM - Deportes Tolima vs América de Cali [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/deportes-tolima-vs-america-de-cali/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Deportes Tolima vs América de Cali" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXvUQgQMUCG4gpIPtpAQQiIzBAoQJAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Football",09:15 AM - Deportes Tolima vs América de Cali [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749338100000-deportes-tolima-america-de-cali/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bulgaria W v Serbia W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",09:30 AM - Bulgaria W v Serbia W [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749339000000-bulgaria-w-serbia-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tormenta v Charlotte Independence" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",09:30 AM - Tormenta v Charlotte Independence [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749339000000-tormenta-charlotte-independence/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tormenta v Charlotte Independence" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",09:30 AM - Tormenta v Charlotte Independence [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/tormenta-vs-charlotte-independence-1326818/1/playlist.m3u8
+#EXTINF:-1 tvg-name="America's Day At the Races" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",09:30 AM - America's Day At the Races [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/america-s-day-at-the-races/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tampa Bay Sun FC vs Dallas Trinity FC" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",09:30 AM - Tampa Bay Sun FC vs Dallas Trinity FC [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/tampa-bay-sun-w-vs-dallas-trinity-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tampa Bay Sun FC vs Dallas Trinity FC" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",09:30 AM - Tampa Bay Sun FC vs Dallas Trinity FC [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749339000000-tampa-bay-sun-w-dallas-trinity-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Avaí vs CRB" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvmBIQtEAxAHeILCAggS54yBSmQieCyQUsIuYxRhVKHp-KNqct6a9GCe4mIQQA.webp" group-title="Football",09:30 AM - Avaí vs CRB [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/avai-vs-crb/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Avaí vs CRB" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvmBIQtEAxAHeILCAggS54yBSmQieCyQUsIuYxRhVKHp-KNqct6a9GCe4mIQQA.webp" group-title="Football",09:30 AM - Avaí vs CRB [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749339000000-avai-crb/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Avaí vs CRB" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvmBIQtEAxAHeILCAggS54yBSmQieCyQUsIuYxRhVKHp-KNqct6a9GCe4mIQQA.webp" group-title="Football",09:30 AM - Avaí vs CRB [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/avai-vs-crb-1353364/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bay FC vs Portland Thorns" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDgkYbmAH4Q3EHxARcRy1pIgb8AsB0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Football",09:30 AM - Bay FC vs Portland Thorns [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/bay-fc-w-vs-portland-thorns-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bay FC vs Portland Thorns" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDgkYbmAH4Q3EHxARcRy1pIgb8AsB0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Football",09:30 AM - Bay FC vs Portland Thorns [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749339000000-bay-fc-w-portland-thorns-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bay FC vs Portland Thorns" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDgkYbmAH4Q3EHxARcRy1pIgb8AsB0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Football",09:30 AM - Bay FC vs Portland Thorns [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/bay-fc-vs-portland-thorns-w-1339320/1/playlist.m3u8
+#EXTINF:-1 tvg-name="DC United vs Chicago Fire" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwhuYJGG1kSWkHxCIpxkOZMQQNqQWC6Y-YbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="Football",09:30 AM - DC United vs Chicago Fire [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/d-c-united-vs-chicago-fire-fc/1/playlist.m3u8
+#EXTINF:-1 tvg-name="DC United vs Chicago Fire" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwhuYJGG1kSWkHxCIpxkOZMQQNqQWC6Y-YbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="Football",09:30 AM - DC United vs Chicago Fire [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749339000000-dc-united-chicago-fire/1/playlist.m3u8
+#EXTINF:-1 tvg-name="DC United vs Chicago Fire" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwhuYJGG1kSWkHxCIpxkOZMQQNqQWC6Y-YbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="Football",09:30 AM - DC United vs Chicago Fire [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/dc-united-vs-chicago-fire-1326467/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Yankees vs Boston Red Sox" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrxAgmYbeE2asICFpBHpIFCBggSxlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",09:35 AM - New York Yankees vs Boston Red Sox [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/new-york-yankees-vs-boston-red-sox/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Yankees vs Boston Red Sox" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrxAgmYbeE2asICFpBHpIFCBggSxlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",09:35 AM - New York Yankees vs Boston Red Sox [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749339300000-boston-red-sox-vs-new-york-yankees/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Yankees vs Boston Red Sox" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrxAgmYbeE2asICFpBHpIFCBggSxlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",09:35 AM - New York Yankees vs Boston Red Sox [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/boston-red-sox-vs-new-york-yankees-1629444880/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Milwaukee Brewers vs San Diego Padres" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQ15IKGRQheILLpBmT0zSBggShlkgpYRcxltUoeYMvCLU5nviswGDe4mIQQA.webp" group-title="Baseball",09:35 AM - Milwaukee Brewers vs San Diego Padres [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/milwaukee-brewers-vs-san-diego-padres/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Milwaukee Brewers vs San Diego Padres" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQ15IKGRQheILLpBmT0zSBggShlkgpYRcxltUoeYMvCLU5nviswGDe4mIQQA.webp" group-title="Baseball",09:35 AM - Milwaukee Brewers vs San Diego Padres [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749339300000-san-diego-padres-vs-milwaukee-brewers/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Milwaukee Brewers vs San Diego Padres" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQ15IKGRQheILLpBmT0zSBggShlkgpYRcxltUoeYMvCLU5nviswGDe4mIQQA.webp" group-title="Baseball",09:35 AM - Milwaukee Brewers vs San Diego Padres [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/san-diego-padres-vs-milwaukee-brewers-1629444881/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UFC 316: Dvalishvili v O'Malley 2 Prelims" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",10:00 AM - UFC 316: Dvalishvili v O'Malley 2 Prelims [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749340800000-ufc-316-dvalishvili-vs-o-malley-2-prelims/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Solo FC W v Ultrain W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",10:00 AM - Solo FC W v Ultrain W [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749340800000-solo-fc-w-ultrain-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="La Equidad v Bogota" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",10:00 AM - La Equidad v Bogota [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749340800000-la-equidad-bogota/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Atletico Nacional v Can Oruro" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",10:00 AM - Atletico Nacional v Can Oruro [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749340800000-atletico-nacional-can-oruro/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Argentino v Zarate" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",10:00 AM - Argentino v Zarate [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/argentino-vs-zarate/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Argentino v Zarate" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",10:00 AM - Argentino v Zarate [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749340800000-argentino-zarate/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UFC 316: Prelims" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",10:00 AM - UFC 316: Prelims [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/ufc-316-prelims/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UFC 316: Prelims" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",10:00 AM - UFC 316: Prelims [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/ufc-316-prelims-1629444883/1/playlist.m3u8
+#EXTINF:-1 tvg-name="AEW Collision" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",10:00 AM - AEW Collision [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/aew-collision/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Houston Dynamo 2 vs Sporting Kansas City II" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBgQKbRpCJuIPgZBnDZ3CCMSmSCn2Gz6ulSi5gy8IllnumtGCeYqIQQA.webp" group-title="Football",10:00 AM - Houston Dynamo 2 vs Sporting Kansas City II [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749340800000-houston-dynamo-2-sporting-kansas-city-ii/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Forward Madison vs Union Omaha" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDFZgSEHxBSQ3PSEQoQEUyHOIQ1gjop9hs+ijAqUXD+XrbRXky0YB5iohBAA.webp" group-title="Football",10:00 AM - Forward Madison vs Union Omaha [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/forward-madison-vs-union-omaha/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Forward Madison vs Union Omaha" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDFZgSEHxBSQ3PSEQoQEUyHOIQ1gjop9hs+ijAqUXD+XrbRXky0YB5iohBAA.webp" group-title="Football",10:00 AM - Forward Madison vs Union Omaha [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749340800000-forward-madison-union-omaha/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Forward Madison vs Union Omaha" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDFZgSEHxBSQ3PSEQoQEUyHOIQ1gjop9hs+ijAqUXD+XrbRXky0YB5iohBAA.webp" group-title="Football",10:00 AM - Forward Madison vs Union Omaha [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/forward-madison-vs-union-omaha-1326821/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Louisville City vs Tampa Bay Rowdies" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGCSyBIEHxDcQUvbpMwQ5nPsbAkFPsNn0NKlFzBl4RLLLdNaYB5iohBAA.webp" group-title="Football",10:00 AM - Louisville City vs Tampa Bay Rowdies [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749340800000-louisville-city-fc-tampa-bay-rowdies/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Louisville City vs Tampa Bay Rowdies" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGCSyBIEHxDcQUvbpMwQ5nPsbAkFPsNn0NKlFzBl4RLLLdNaYB5iohBAA.webp" group-title="Football",10:00 AM - Louisville City vs Tampa Bay Rowdies [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/louisville-city-vs-tampa-bay-rowdies-1327094/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Chicago Sky vs Indiana Fever" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsBpbeIGCB06sICCBIhpIFCCN7bLJBSwi5jFGFUoe78o2pzP+Kya7uJiEEA.webp" group-title="Basketball",10:00 AM - Chicago Sky vs Indiana Fever [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/chicago-sky-w-vs-indiana-fever-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Chicago Sky vs Indiana Fever" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsBpbeIGCB06sICCBIhpIFCCN7bLJBSwi5jFGFUoe78o2pzP+Kya7uJiEEA.webp" group-title="Basketball",10:00 AM - Chicago Sky vs Indiana Fever [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749340800000-indiana-fever-w-vs-chicago-sky-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Chicago Sky vs Indiana Fever" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsBpbeIGCB06sICCBIhpIFCCN7bLJBSwi5jFGFUoe78o2pzP+Kya7uJiEEA.webp" group-title="Basketball",10:00 AM - Chicago Sky vs Indiana Fever [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/indiana-fever-vs-chicago-sky-1629444882/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Instituto de Cordoba vs Riachuelo" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMCkgZbKWCQhu2kChB9DIRCRDWIuAsCQU+w2fRRgVGtp-L0sshpMtGCeYqIQQA.webp" group-title="Basketball",10:00 AM - Instituto de Cordoba vs Riachuelo [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749340800000-instituto-de-cordoba-riachuelo/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Scarborough Shooting Stars vs Winnipeg Sea Bears" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",10:00 AM - Scarborough Shooting Stars vs Winnipeg Sea Bears [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749340800000-scarborough-shooting-stars-winnipeg-sea-bears/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Beatriz Ferreira v Maria Ferreyra" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",10:30 AM - Beatriz Ferreira v Maria Ferreyra [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749342600000-beatriz-ferreira-vs-maria-ferreyra/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Beatriz Ferreira v Maria Ines Ferreyra" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",10:30 AM - Beatriz Ferreira v Maria Ines Ferreyra [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/beatriz-ferreira-vs-maria-ines-ferreyra/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Australia Supercars Championship Perth Super 440" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Motor Sports",10:45 AM - Australia Supercars Championship Perth Super 440 [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/australia-supercars-championship-perth-super-440/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 1" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",11:00 AM - Court 1 [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/court-1-1629444885/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New Mexico United v Colorado Springs" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",11:00 AM - New Mexico United v Colorado Springs [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/new-mexico-united-vs-colorado-springs-1327096/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Oregon State v Florida State" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Baseball",11:00 AM - Oregon State v Florida State [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749344400000-oregon-state-vs-florida-state/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Jose Rosa v Jorge Lagunas" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",11:00 AM - Jose Rosa v Jorge Lagunas [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749344400000-jose-rosa-vs-jorge-lagunas/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Utah Warriors v Los Angeles" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Rugby",11:00 AM - Utah Warriors v Los Angeles [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/utah-warriors-vs-los-angeles/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Utah Warriors v Los Angeles" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Rugby",11:00 AM - Utah Warriors v Los Angeles [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749344400000-utah-warriors-los-angeles/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Utah Warriors v Los Angeles" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Rugby",11:00 AM - Utah Warriors v Los Angeles [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/utah-warriors-vs-rfc-los-angeles-1629444884/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tapatio v Leones Negros" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",11:00 AM - Tapatio v Leones Negros [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/tapatio-vs-leones-negros/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tapatio v Leones Negros" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",11:00 AM - Tapatio v Leones Negros [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749344400000-leones-negros-tapatio/1/playlist.m3u8
+#EXTINF:-1 tvg-name="San Antonio vs Las Vegas Lights" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKln482YEiG4gpIPiFMmYICxZSWCwJBT7DZ9FLrYouu8vU2jPTLRg7vSiEEA.webp" group-title="Football",11:00 AM - San Antonio vs Las Vegas Lights [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749344400000-san-antonio-scorpions-las-vegas-lights/1/playlist.m3u8
+#EXTINF:-1 tvg-name="San Antonio vs Las Vegas Lights" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKln482YEiG4gpIPiFMmYICxZSWCwJBT7DZ9FLrYouu8vU2jPTLRg7vSiEEA.webp" group-title="Football",11:00 AM - San Antonio vs Las Vegas Lights [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/san-antonio-vs-las-vegas-lights-1327102/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New Mexico United vs Colorado Springs Switchbacks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUfhBQ+IMom4gdEXCeMoQB-QWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Football",11:00 AM - New Mexico United vs Colorado Springs Switchbacks [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749344400000-new-mexico-united-colorado-springs-switchbacks/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Belize vs Panama" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",11:00 AM - Belize vs Panama [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/belize-vs-panama/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Belize vs Panama" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",11:00 AM - Belize vs Panama [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749344400000-belize-panama/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Nelson Giants vs Manawatu Jets" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGF4aNJEChDcQfEBFwhEUvSF27GwJBT7DZ9HWxRcwZeESyyPTLRgXmKiEEA.webp" group-title="Basketball",11:00 AM - Nelson Giants vs Manawatu Jets [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/nelson-giants-vs-manawatu-jets/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Nelson Giants vs Manawatu Jets" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGF4aNJEChDcQfEBFwhEUvSF27GwJBT7DZ9HWxRcwZeESyyPTLRgXmKiEEA.webp" group-title="Basketball",11:00 AM - Nelson Giants vs Manawatu Jets [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749344400000-nelson-giants-manawatu-jets/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Leones v Pereira" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",11:20 AM - Leones v Pereira [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749345600000-leones-pereira/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Junior v Ind. Medellin" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",11:20 AM - Junior v Ind. Medellin [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/junior-vs-ind-medellin/1/playlist.m3u8
+#EXTINF:-1 tvg-name="The Soccer Tournament Quarterfinals" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",11:30 AM - The Soccer Tournament Quarterfinals [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749346200000-the-soccer-tournament-quarterfinals/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Colorado Rapids vs Austin FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXOzDcK2pCG4g+IRFMMhTRiCCt8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",11:30 AM - Colorado Rapids vs Austin FC [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/colorado-rapids-vs-austin-fc/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Colorado Rapids vs Austin FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXOzDcK2pCG4g+IRFMMhTRiCCt8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",11:30 AM - Colorado Rapids vs Austin FC [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749346200000-colorado-rapids-austin-fc/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Colorado Rapids vs Austin FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXOzDcK2pCG4g+IRFMMhTRiCCt8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",11:30 AM - Colorado Rapids vs Austin FC [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/colorado-rapids-vs-austin-1326468/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Los Angeles Angels vs Seattle Mariners" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo3whpIeoJQheILCAghzJnQZggS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",11:38 AM - Los Angeles Angels vs Seattle Mariners [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/los-angeles-angels-vs-seattle-mariners/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Los Angeles Angels vs Seattle Mariners" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo3whpIeoJQheILCAghzJnQZggS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",11:38 AM - Los Angeles Angels vs Seattle Mariners [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749346680000-seattle-mariners-vs-los-angeles-angels/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Los Angeles Angels vs Seattle Mariners" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo3whpIeoJQheILCAghzJnQZggS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",11:38 AM - Los Angeles Angels vs Seattle Mariners [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/seattle-mariners-vs-los-angeles-angels-1629444886/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Colorado Rockies vs New York Mets" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlGqgQ-NjpBYQEECcPSQKEDCNWWSClhFzGKMKpQ835RlrEf8rMBgbuJiEEA.webp" group-title="Baseball",11:40 AM - Colorado Rockies vs New York Mets [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/colorado-rockies-vs-new-york-mets/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Colorado Rockies vs New York Mets" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlGqgQ-NjpBYQEECcPSQKEDCNWWSClhFzGKMKpQ835RlrEf8rMBgbuJiEEA.webp" group-title="Baseball",11:40 AM - Colorado Rockies vs New York Mets [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749346800000-new-york-mets-vs-colorado-rockies/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Colorado Rockies vs New York Mets" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlGqgQ-NjpBYQEECcPSQKEDCNWWSClhFzGKMKpQ835RlrEf8rMBgbuJiEEA.webp" group-title="Baseball",11:40 AM - Colorado Rockies vs New York Mets [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/new-york-mets-vs-colorado-rockies-1629444887/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Dvalishvili v O'Malley 2" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",12:00 PM - Dvalishvili v O'Malley 2 [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/dvalishvili-vs-omalley-2-1629444891/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Baltimore Orioles v Athletics" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Baseball",12:00 PM - Baltimore Orioles v Athletics [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/baltimore-orioles-vs-athletics-1629444888/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UFC 316: Dvalishvili v O'Malley 2" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",12:00 PM - UFC 316: Dvalishvili v O'Malley 2 [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749348000000-ufc-316-dvalishvili-vs-o-malley-2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Oakland Roots v El Paso" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",12:00 PM - Oakland Roots v El Paso [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749348000000-oakland-roots-el-paso/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Monterey Bay v Lexington" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",12:00 PM - Monterey Bay v Lexington [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749348000000-monterey-bay-lexington/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Monterey Bay v Lexington" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",12:00 PM - Monterey Bay v Lexington [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/monterey-bay-vs-lexington-1327095/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Abdullah Mason v Jeremia Nakathila" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",12:00 PM - Abdullah Mason v Jeremia Nakathila [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749348000000-abdullah-mason-vs-jeremia-nakathila/1/playlist.m3u8
+#EXTINF:-1 tvg-name="San Diego v America" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",12:00 PM - San Diego v America [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/san-diego-vs-america/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Angel City W v Chicago W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",12:00 PM - Angel City W v Chicago W [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/angel-city-w-vs-chicago-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="GCW Deathmatch Hall Of Fame" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",12:00 PM - GCW Deathmatch Hall Of Fame [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/gcw-deathmatch-hall-of-fame/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UFC 316: Merab Dvalishvili v Sean O'Malley" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",12:00 PM - UFC 316: Merab Dvalishvili v Sean O'Malley [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/ufc-316-merab-dvalishvili-vs-sean-o-malley/1/playlist.m3u8
+#EXTINF:-1 tvg-name="BC Lions v Edmonton Elks" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="American Football",12:00 PM - BC Lions v Edmonton Elks [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/bc-lions-vs-edmonton-elks/1/playlist.m3u8
+#EXTINF:-1 tvg-name="BC Lions v Edmonton Elks" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="American Football",12:00 PM - BC Lions v Edmonton Elks [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749348000000-edmonton-elks-vs-bc-lions/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Angel City vs Chicago Stars" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFII1U4ObiD4gIuEHr0GUIGPoLAkFPsNn0UYFRravy9LLI1NaYK5iohBAA.webp" group-title="Football",12:00 PM - Angel City vs Chicago Stars [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749348000000-angel-city-w-chicago-red-stars-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Angel City vs Chicago Stars" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFII1U4ObiD4gIuEHr0GUIGPoLAkFPsNn0UYFRravy9LLI1NaYK5iohBAA.webp" group-title="Football",12:00 PM - Angel City vs Chicago Stars [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/angel-city-w-vs-chicago-red-stars-w-1339321/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Oakland Roots vs El Paso Locomotive" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXt2wMKObiCkg+IY0ZggzOIyQLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football",12:00 PM - Oakland Roots vs El Paso Locomotive [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/oakland-roots-vs-el-paso-locomotive-1327097/1/playlist.m3u8
+#EXTINF:-1 tvg-name="San Diego Legion vs Old Glory DC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEMQAMCBvxDcQUkCRARcIPiEQwrIFAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="Rugby",12:00 PM - San Diego Legion vs Old Glory DC [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/san-diego-legion-vs-old-glory-dc/1/playlist.m3u8
+#EXTINF:-1 tvg-name="San Diego Legion vs Old Glory DC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEMQAMCBvxDcQUkCRARcIPiEQwrIFAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="Rugby",12:00 PM - San Diego Legion vs Old Glory DC [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749348000000-san-diego-legion-old-glory-dc/1/playlist.m3u8
+#EXTINF:-1 tvg-name="San Diego Legion vs Old Glory DC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEMQAMCBvxDcQUkCRARcIPiEQwrIFAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="Rugby",12:00 PM - San Diego Legion vs Old Glory DC [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/san-diego-legion-vs-old-glory-dc-1629444889/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Phoenix Mercury vs Seattle Storm" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtLC8QO7WOkhtWEBBAkQBlCGMwQt5vmBIKWEXMYowqlDy-lG1HI+jvRgXuJiEEA.webp" group-title="Basketball",12:00 PM - Phoenix Mercury vs Seattle Storm [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/phoenix-mercury-w-vs-seattle-storm-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Phoenix Mercury vs Seattle Storm" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtLC8QO7WOkhtWEBBAkQBlCGMwQt5vmBIKWEXMYowqlDy-lG1HI+jvRgXuJiEEA.webp" group-title="Basketball",12:00 PM - Phoenix Mercury vs Seattle Storm [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749348000000-seattle-storm-w-vs-phoenix-mercury-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Phoenix Mercury vs Seattle Storm" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtLC8QO7WOkhtWEBBAkQBlCGMwQt5vmBIKWEXMYowqlDy-lG1HI+jvRgXuJiEEA.webp" group-title="Basketball",12:00 PM - Phoenix Mercury vs Seattle Storm [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/seattle-storm-vs-phoenix-mercury-1629444890/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Athletics vs Baltimore Orioles" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduFrSwSECj4heILCAghzJ6XuMgr8FkgpYRcxijCr9HD+UbU5+viswGAe4mIQQA.webp" group-title="Baseball",12:05 PM - Athletics vs Baltimore Orioles [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/athletics-vs-baltimore-orioles/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Athletics vs Baltimore Orioles" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduFrSwSECj4heILCAghzJ6XuMgr8FkgpYRcxijCr9HD+UbU5+viswGAe4mIQQA.webp" group-title="Baseball",12:05 PM - Athletics vs Baltimore Orioles [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749348300000-baltimore-orioles-vs-athletics/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Phoenix Rising vs Orange County SC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBBSQA0DL4huWnSFMGYICzm0SmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",12:30 PM - Phoenix Rising vs Orange County SC [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/phoenix-rising-vs-orange-county-sc/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Phoenix Rising vs Orange County SC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBBSQA0DL4huWnSFMGYICzm0SmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",12:30 PM - Phoenix Rising vs Orange County SC [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749349800000-phoenix-rising-fc-orange-county-sc/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Phoenix Rising vs Orange County SC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBBSQA0DL4huWnSFMGYICzm0SmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",12:30 PM - Phoenix Rising vs Orange County SC [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/phoenix-rising-vs-orange-county-sc-1327098/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kazakhstan W v Mongolia W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",01:00 PM - Kazakhstan W v Mongolia W [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749351600000-kazakhstan-w-mongolia-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Money in the Bank 2025 Post-Show" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",01:00 PM - Money in the Bank 2025 Post-Show [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/money-in-the-bank-2025-post-show/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sacramento Republic vs FC Tulsa" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzAD4YbiFoAGDSD4gIuC+ZAW9Epkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp" group-title="Football",01:00 PM - Sacramento Republic vs FC Tulsa [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749351600000-sacramento-republic-fc-fc-tulsa/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sacramento Republic vs FC Tulsa" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzAD4YbiFoAGDSD4gIuC+ZAW9Epkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp" group-title="Football",01:00 PM - Sacramento Republic vs FC Tulsa [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/sacramento-republic-vs-fc-tulsa-1327101/1/playlist.m3u8
+#EXTINF:-1 tvg-name="AV Alta FC vs Spokane Velocity" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",01:00 PM - AV Alta FC vs Spokane Velocity [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749351600000-av-alta-spokane-velocity/1/playlist.m3u8
+#EXTINF:-1 tvg-name="AV Alta FC vs Spokane Velocity" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",01:00 PM - AV Alta FC vs Spokane Velocity [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/alta-vs-spokane-velocity-1326822/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Auckland Tuatara vs Tauranga Whai" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGAFSEDXCG4g+ICHsRSQKECStWCwDTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Basketball",01:00 PM - Auckland Tuatara vs Tauranga Whai [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/auckland-tuatara-vs-tauranga-whai/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Auckland Tuatara vs Tauranga Whai" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGAFSEDXCG4g+ICHsRSQKECStWCwDTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Basketball",01:00 PM - Auckland Tuatara vs Tauranga Whai [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749351600000-auckland-tuatara-tauranga-whai/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Belgium W v Poland W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",01:30 PM - Belgium W v Poland W [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749353400000-belgium-w-poland-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="England Lions v India A" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Cricket",02:00 PM - England Lions v India A [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/england-lions-vs-india-a-1629444892/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Vanraure v Ryukyu" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",02:00 PM - Vanraure v Ryukyu [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749355200000-vanraure-ryukyu/1/playlist.m3u8
+#EXTINF:-1 tvg-name="State of Boxing Post Show: Mason v Nakathila" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",02:00 PM - State of Boxing Post Show: Mason v Nakathila [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/state-of-boxing-post-show-mason-vs-nakathila/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Vanraure Hachinohe vs FC Ryukyu" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFBlgQceNhDcQfEImMwDRkFZS4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",02:00 PM - Vanraure Hachinohe vs FC Ryukyu [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/vanraure-hachinohe-vs-fc-ryukyu-1325032/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Canberra Raiders vs South Sydney Rabbitohs" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiF4DgYFJU0g+IGMYOIppnAqZIKfYbPoowKvWxfl6WWXqa0wLmKiEEA.webp" group-title="Rugby",02:00 PM - Canberra Raiders vs South Sydney Rabbitohs [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/canberra-raiders-vs-south-sydney-rabbitohs/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Canberra Raiders vs South Sydney Rabbitohs" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiF4DgYFJU0g+IGMYOIppnAqZIKfYbPoowKvWxfl6WWXqa0wLmKiEEA.webp" group-title="Rugby",02:00 PM - Canberra Raiders vs South Sydney Rabbitohs [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749355200000-canberra-raiders-south-sydney-rabbitohs/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Yakult Swallows v Fukuoka S. Hawks" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Baseball",02:30 PM - Yakult Swallows v Fukuoka S. Hawks [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/yakult-swallows-vs-fukuoka-s-hawks/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hiroshima Carp v Seibu Lions" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Baseball",02:30 PM - Hiroshima Carp v Seibu Lions [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/hiroshima-carp-vs-seibu-lions/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Chunichi Dragons vs Chiba Lotte Marines" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAPAQQiFGG4gDUkNpBnDGkCR1mCwJBT7DZ9PSpRcwZeESyyPTLRgXmKiEEA.webp" group-title="Baseball",02:30 PM - Chunichi Dragons vs Chiba Lotte Marines [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/chunichi-dragons-vs-chiba-lotte-marines/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Featured Hole #11 (Third Round) (Featured Hole)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",03:00 PM - Featured Hole #11 (Third Round) (Featured Hole) [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/featured-hole-11-third-round-featured-hole-1629444893/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Featured Group 2 (Third Round)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",03:00 PM - Featured Group 2 (Third Round) [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/featured-group-2-third-round-1629444895/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Featured Group 1 (Third Round) (Featured Group 1)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",03:00 PM - Featured Group 1 (Third Round) (Featured Group 1) [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/featured-group-1-third-round-featured-group-1-1629444894/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Featured Hole #14 (Third Round) (Featured Hole)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",03:00 PM - Featured Hole #14 (Third Round) (Featured Hole) [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/featured-hole-14-third-round-featured-hole-1629444896/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tochigi City v Kitakyushu" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",03:00 PM - Tochigi City v Kitakyushu [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/tochigi-city-vs-kitakyushu-1325034/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Gainare Tottori v Nagano" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",03:00 PM - Gainare Tottori v Nagano [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749358800000-gainare-tottori-nagano/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Azul Claro Numazu v Kanazawa" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",03:00 PM - Azul Claro Numazu v Kanazawa [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749358800000-azul-claro-numazu-kanazawa/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Azul Claro Numazu v Kanazawa" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",03:00 PM - Azul Claro Numazu v Kanazawa [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/azul-claro-numazu-vs-kanazawa-1325036/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Yomiuri Giants v Rakuten Gold. Eagles" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Baseball",03:00 PM - Yomiuri Giants v Rakuten Gold. Eagles [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/yomiuri-giants-vs-rakuten-gold-eagles/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Yokohama BayStars v Nippon Ham Fighters" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Baseball",03:00 PM - Yokohama BayStars v Nippon Ham Fighters [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/yokohama-baystars-vs-nippon-ham-fighters/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Toyama v Mito" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",03:00 PM - Toyama v Mito [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/toyama-vs-mito/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Toyama v Mito" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",03:00 PM - Toyama v Mito [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749358800000-toyama-mito-hollyhock/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Omiya Ardija v Ehime" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",03:00 PM - Omiya Ardija v Ehime [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/omiya-ardija-vs-ehime/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Omiya Ardija v Ehime" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",03:00 PM - Omiya Ardija v Ehime [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749358800000-omiya-ardija-ehime-fc/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Omiya Ardija v Ehime" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",03:00 PM - Omiya Ardija v Ehime [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/omiya-ardija-vs-ehime-fc-1324679/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UFC 316: Post-Fight Press Conference" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",03:00 PM - UFC 316: Post-Fight Press Conference [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/ufc-316-post-fight-press-conference/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Júbilo Iwata vs Shonan Bellmare" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",03:00 PM - Júbilo Iwata vs Shonan Bellmare [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749358800000-jubilo-iwata-shonan-bellmare/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kochi United vs Nara Club" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGaFFIQKMCRDcQfEImMwDRkFZQgSBYEgp9hs+rpUoue8vSyzPTLRgemKiEEA.webp" group-title="Football",03:00 PM - Kochi United vs Nara Club [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749358800000-kochi-united-nara-club/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kochi United vs Nara Club" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGaFFIQKMCRDcQfEImMwDRkFZQgSBYEgp9hs+rpUoue8vSyzPTLRgemKiEEA.webp" group-title="Football",03:00 PM - Kochi United vs Nara Club [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/kochi-united-vs-nara-club-1325039/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Gainare Tottori vs Nagano Parceiro" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEMAAMDEDH4g+IbiCkGQJI2ZC6zCpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp" group-title="Football",03:00 PM - Gainare Tottori vs Nagano Parceiro [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/gainare-tottori-vs-parceiro-nagano-1325037/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tochigi City vs Giravanz Kitakyushu" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHFq028SCG4g+IREZj7DISymMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",03:00 PM - Tochigi City vs Giravanz Kitakyushu [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749358800000-tochigi-city-giravanz-kitakyushu/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kataller Toyama vs Mito HollyHock" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmAzWSMLoghuIPiEQmYh4yBIgptgsF0x+w2fRRgVmtp-L0ssppMtGCeYqIQQA.webp" group-title="Football",03:00 PM - Kataller Toyama vs Mito HollyHock [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/kataller-toyama-vs-mito-hollyhock-1324680/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hanshin Tigers vs Orix Buffaloes" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGD4huIOKIjaQUkAZBnDWkiEQKmSCn2Gz6KMCpRc35ellkemtGBuYvpAA.webp" group-title="Baseball",03:00 PM - Hanshin Tigers vs Orix Buffaloes [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/hanshin-tigers-vs-orix-buffaloes/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Philippines W v Indonesia W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",03:30 PM - Philippines W v Indonesia W [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749360600000-philippines-w-indonesia-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sanfrecce Hiroshima vs Avispa Fukuoka" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",04:00 PM - Sanfrecce Hiroshima vs Avispa Fukuoka [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749362400000-sanfrecce-hiroshima-avispa-fukuoka/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wests Tigers vs Penrith Panthers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWgAYQogYRIhuIKSAhGQiUyBAxrJgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Rugby",04:05 PM - Wests Tigers vs Penrith Panthers [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/wests-tigers-vs-penrith-panthers/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wests Tigers vs Penrith Panthers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWgAYQogYRIhuIKSAhGQiUyBAxrJgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Rugby",04:05 PM - Wests Tigers vs Penrith Panthers [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749362700000-wests-tigers-penrith-panthers/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rally Italia Sardegna - SS14 Porto San Paolo 1" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Motor Sports",04:30 PM - Rally Italia Sardegna - SS14 Porto San Paolo 1 [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/rally-italia-sardegna-ss14-porto-san-paolo-1-1629444897/1/playlist.m3u8
+#EXTINF:-1 tvg-name="France W v Thailand W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",05:00 PM - France W v Thailand W [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749366000000-france-w-thailand-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="MotoGP Aragon GP: MotoGP Warm Up" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Motor Sports",05:40 PM - MotoGP Aragon GP: MotoGP Warm Up [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/motogp-aragon-gp-motogp-warm-up/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iran W v New Zealand W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",06:00 PM - Iran W v New Zealand W [Bravo] - (08/06/2025)
+https://rr.vipstreams.in/Bravo/js/1749369600000-iran-w-new-zealand-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Scotland v Nepal" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Cricket",06:00 PM - Scotland v Nepal [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/scotland-vs-nepal/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Top Rank Boxing: Junto Nakatani v Ryosuke Nishida" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",06:00 PM - Top Rank Boxing: Junto Nakatani v Ryosuke Nishida [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/top-rank-boxing-junto-nakatani-vs-ryosuke-nishida/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Czechia v Austria" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Cricket",06:15 PM - Czechia v Austria [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/czechia-vs-austria-1629444898/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Serbia v Slovenia" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Cricket",07:00 PM - Serbia v Slovenia [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/serbia-vs-slovenia-1629444899/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Women's Series 15-16" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Darts",07:00 PM - Women's Series 15-16 [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/womens-series-15-16-1629444900/1/playlist.m3u8
+#EXTINF:-1 tvg-name="MotoGP Aragon GP: Moto3 Race" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Motor Sports",07:00 PM - MotoGP Aragon GP: Moto3 Race [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/motogp-aragon-gp-moto3-race/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Blackwater Bossing v Terrafirma Dyip" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",07:00 PM - Blackwater Bossing v Terrafirma Dyip [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/blackwater-bossing-vs-terrafirma-dyip/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Jai Opetaia v Claudio Squeo" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",07:00 PM - Jai Opetaia v Claudio Squeo [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/jai-opetaia-vs-claudio-squeo/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Zandvoort Race 2" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Motor Sports",07:30 PM - Zandvoort Race 2 [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/zandvoort-race-2-1629444901/1/playlist.m3u8
+#EXTINF:-1 tvg-name="KLM Open, Final Round" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",08:00 PM - KLM Open, Final Round [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/klm-open-final-round-1629444903/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Scotland v Nepal" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Cricket",08:00 PM - Scotland v Nepal [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/scotland-vs-nepal-1629444902/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Gimpo FC vs Cheonan City" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcLxS4eYPiG4g9EEDBBmciEiCswCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",08:00 PM - Gimpo FC vs Cheonan City [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/gimpo-citizen-vs-cheonan-city-1337656/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Incheon United vs Bucheon FC 1995" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLMQggUIWnxDcQ+rTBBmciEiC0oCwJBT7DZ9FGBUou78vQ2jPTLRg7mKiEEA.webp" group-title="Football",08:00 PM - Incheon United vs Bucheon FC 1995 [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/incheon-united-vs-bucheon-fc-1995-1337655/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Angola vs Lesotho" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",08:00 PM - Angola vs Lesotho [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/angola-vs-lesotho/1/playlist.m3u8
+#EXTINF:-1 tvg-name="MotoGP Aragon GP: Moto2 Race" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Motor Sports",08:15 PM - MotoGP Aragon GP: Moto2 Race [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/motogp-aragon-gp-moto2-race/1/playlist.m3u8
+#EXTINF:-1 tvg-name="KLM Open Final Round" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwIQ3LWRjaQfEIhwgzh86YLAkFPsNn0UYFSi4vy9LLLdNaYFzFRCCA.webp" group-title="Golf",08:30 PM - KLM Open Final Round [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/klm-open-final-round/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rally Italia Sardegna - SS16 Porto San Paolo 2 - Wolf PS" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Motor Sports",09:00 PM - Rally Italia Sardegna - SS16 Porto San Paolo 2 - Wolf PS [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/rally-italia-sardegna-ss16-porto-san-paolo-2-wolf-ps-1629444904/1/playlist.m3u8
+#EXTINF:-1 tvg-name="DTM Race 2 of 2, Zandvoort" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Motor Sports",09:00 PM - DTM Race 2 of 2, Zandvoort [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/dtm-race-2-of-2-zandvoort/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Barangay Ginebra San Miguel v TNT Tropang Giga" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",09:30 PM - Barangay Ginebra San Miguel v TNT Tropang Giga [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/barangay-ginebra-san-miguel-vs-tnt-tropang-giga/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Main Feed (Final Round)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",09:45 PM - Main Feed (Final Round) [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/main-feed-final-round-1629444905/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ferrari Challenge Europe" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Motor Sports",09:50 PM - Ferrari Challenge Europe [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/ferrari-challenge-europe/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Aragón GP" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VerSQhuIOCG0g+IRChAljZkBEswCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Motor Sports",10:00 PM - Aragón GP [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/motogp-aragon-gp-motogp-race/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Czechia v Norway" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Cricket",10:15 PM - Czechia v Norway [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/czechia-vs-norway-1629444907/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Featured Groups (Final Round) (Featured Groups)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",10:30 PM - Featured Groups (Final Round) (Featured Groups) [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/featured-groups-final-round-featured-groups-1629444906/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Featured Holes #4, #7, #11 & #14 (Final Round) (Featured Hole)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",10:30 PM - Featured Holes #4, #7, #11 & #14 (Final Round) (Featured Hole) [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/featured-holes-4-7-11-and-14-final-round-featured-hole-1629444908/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Marquee Group (Final Round) (Marquee Group)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",10:45 PM - Marquee Group (Final Round) (Marquee Group) [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/marquee-group-final-round-marquee-group-1629444910/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Men's Singles Final" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",10:45 PM - Men's Singles Final [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/mens-singles-final-1629444909/1/playlist.m3u8
+#EXTINF:-1 tvg-name="IMSA VP Racing Challenge Race 2 of 2, Mid-Ohio" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Motor Sports",10:55 PM - IMSA VP Racing Challenge Race 2 of 2, Mid-Ohio [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/imsa-vp-racing-challenge-race-2-of-2-mid-ohio/1/playlist.m3u8
+#EXTINF:-1 tvg-name="England v West Indies" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Cricket",11:00 PM - England v West Indies [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/england-vs-west-indies-1629444911/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Germany v France" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",11:00 PM - Germany v France [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/germany-vs-france-1629444848/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Germany vs France" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAUhAkQtAAzMQ3LTpBSQ5vsfNGFTJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp" group-title="Football",11:00 PM - Germany vs France [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/uefa-nations-league-third-place-germany-vs-france/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Germany vs France" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAUhAkQtAAzMQ3LTpBSQ5vsfNGFTJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp" group-title="Football",11:00 PM - Germany vs France [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/germany-vs-france-1377653/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Namibia vs Malawi" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",11:00 PM - Namibia vs Malawi [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/namibia-vs-malawi/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Trofeo Pirelli - Race 2, Brno" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Motor Sports",11:05 PM - Trofeo Pirelli - Race 2, Brno [Charlie] - (08/06/2025)
+https://rr.vipstreams.in/Charlie/js/trofeo-pirelli-race-2-brno-1629444912/1/playlist.m3u8
+#EXTINF:-1 tvg-name="England v West Indies" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Cricket",11:30 PM - England v West Indies [Alpha] - (08/06/2025)
+https://rr.vipstreams.in/Alpha/js/england-vs-west-indies/1/playlist.m3u8
+#EXTINF:-1 tvg-name="LIV Golf Virginia - Day 3" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",12:00 AM - LIV Golf Virginia - Day 3 [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/liv-golf-virginia-day-3-1629444913/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Munich Ravens v Stuttgart Surge" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",12:00 AM - Munich Ravens v Stuttgart Surge [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/munich-ravens-vs-stuttgart-surge-1629444914/1/playlist.m3u8
+#EXTINF:-1 tvg-name="British Touring Car Championship Thruxton: Round 10" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Motor Sports",12:00 AM - British Touring Car Championship Thruxton: Round 10 [Alpha] - (09/06/2025)
+https://rr.vipstreams.in/Alpha/js/british-touring-car-championship-thruxton-round-10/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Virginia, Round Three" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",12:00 AM - Virginia, Round Three [Alpha] - (09/06/2025)
+https://rr.vipstreams.in/Alpha/js/virginia-round-three/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Coppa Shell AM - Race 2, Brno" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Motor Sports",12:20 AM - Coppa Shell AM - Race 2, Brno [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/coppa-shell-am-race-2-brno-1629444915/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Monaco v Lyon-Villeurbanne" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Basketball",12:30 AM - Monaco v Lyon-Villeurbanne [Alpha] - (09/06/2025)
+https://rr.vipstreams.in/Alpha/js/monaco-vs-lyon-villeurbanne/1/playlist.m3u8
+#EXTINF:-1 tvg-name="DJD Masters 2025" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Darts",01:00 AM - DJD Masters 2025 [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/djd-masters-2025-1629444916/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Featured Group 1 (Final Round) (Featured Group 1)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",03:00 AM - Featured Group 1 (Final Round) (Featured Group 1) [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/featured-group-1-final-round-featured-group-1-1629444922/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Featured Hole #11 (Final Round) (Featured Hole)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",03:00 AM - Featured Hole #11 (Final Round) (Featured Hole) [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/featured-hole-11-final-round-featured-hole-1629444921/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Featured Group 2 (Final Round)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",03:00 AM - Featured Group 2 (Final Round) [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/featured-group-2-final-round-1629444920/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Featured Hole #14 (Final Round) (Featured Hole)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",03:00 AM - Featured Hole #14 (Final Round) (Featured Hole) [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/featured-hole-14-final-round-featured-hole-1629444919/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Turchi v Volkovs" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Fight",03:30 AM - Turchi v Volkovs [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/turchi-vs-volkovs-1629444928/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pittsburgh Pirates vs Philadelphia Phillies" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvXzyQg8Il46QEECawhpIFCBiHmWpBSwi5jFGFUoe78o2pzPWvRg7uJiEEA.webp" group-title="Baseball",03:35 AM - Pittsburgh Pirates vs Philadelphia Phillies [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/philadelphia-phillies-vs-pittsburgh-pirates-1629444924/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Washington Nationals vs Texas Rangers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFpZNIFMAAMnELxDaIIC9um6QMENd35gSClhFzGKMKr0dv5Rmo5PSd6MG9xMQggA.webp" group-title="Baseball",03:35 AM - Washington Nationals vs Texas Rangers [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/texas-rangers-vs-washington-nationals-1629444923/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cincinnati Reds vs Arizona Diamondbacks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtLBI+YEiBgCQvEFhAQQF09JAp9JkNJZIKWEXMYpdHFD13lG1HI++KzAYF6MYhBAA.webp" group-title="Baseball",03:40 AM - Cincinnati Reds vs Arizona Diamondbacks [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/arizona-diamondbacks-vs-cincinnati-reds-1629444925/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cleveland Guardians vs Houston Astros" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkh4cwIRFhC8Q+iCFP7pIFCBimQzfMCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",03:40 AM - Cleveland Guardians vs Houston Astros [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/houston-astros-vs-cleveland-guardians-1629444927/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Detroit Tigers vs Chicago Cubs" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDEAGJkJIheBkFhAQQ5k9JAoQMY5pZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Baseball",03:40 AM - Detroit Tigers vs Chicago Cubs [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/chicago-cubs-vs-detroit-tigers-1629444926/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Invasion 2025" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",04:00 AM - Invasion 2025 [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/invasion-2025-1629444929/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Chicago White Sox vs Kansas City Royals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmRjBpYEiBQCQvEFhAQQF09P0gYFsyyQUsIuYxS6OBjrvKNqcgb4rMBgnoxiEEA.webp" group-title="Baseball",04:10 AM - Chicago White Sox vs Kansas City Royals [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/kansas-city-royals-vs-chicago-white-sox-1629444930/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Minnesota Twins vs Toronto Blue Jays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdu2ohpIGEzBIQvEFhAQQF0zpS7tulkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",04:10 AM - Minnesota Twins vs Toronto Blue Jays [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/toronto-blue-jays-vs-minnesota-twins-1629444931/1/playlist.m3u8
+#EXTINF:-1 tvg-name="St. Louis Cardinals vs Los Angeles Dodgers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvm4px0kFhC89ICCFP7dKEDBC7mmpBSwi5jFGFXaO78o2pztmvRg7uJiEEA.webp" group-title="Baseball",04:15 AM - St. Louis Cardinals vs Los Angeles Dodgers [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/los-angeles-dodgers-vs-st-louis-cardinals-1629444932/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Washington Mystics vs Connecticut Sun" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYwKBjWysQvEFhAQQJENJApjIGHZDwWSClhFzGKMKp0dv5Rmo5HXxWYDBvcTEIIA.webp" group-title="Basketball",05:00 AM - Washington Mystics vs Connecticut Sun [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/connecticut-sun-vs-washington-mystics-1629444935/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Birmingham Stallions vs Michigan Panthers" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="American Football",05:00 AM - Birmingham Stallions vs Michigan Panthers [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/birmingham-stallions-vs-michigan-panthers-1629444933/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Birmingham Stallions vs Michigan Panthers" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="American Football",05:00 AM - Birmingham Stallions vs Michigan Panthers [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/michigan-panthers-vs-birmingham-stallions-1629444934/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Colorado Rockies vs New York Mets" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoI4oKKENJC8QWEBBBnj+3TCMgULJBSwi5jbapQ8wZeEWpyP+KzAYF7iYhBAA.webp" group-title="Baseball",05:10 AM - Colorado Rockies vs New York Mets [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/new-york-mets-vs-colorado-rockies-1629444936/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York, USA Day 2" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",05:30 AM - New York, USA Day 2 [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/new-york-usa-day-2-1629444937/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Baltimore Orioles v Athletics" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Baseball",06:00 AM - Baltimore Orioles v Athletics [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/baltimore-orioles-vs-athletics-1629444940/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Las Vegas Insomniacs v Silk City Animals" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="American Football",06:00 AM - Las Vegas Insomniacs v Silk City Animals [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/las-vegas-insomniacs-vs-silk-city-animals-1629444938/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Dallas Wings vs Minnesota Lynx" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdo2ohw8GsDAheILCAggSIaSBTGQMO+ZZIKWEXMYowqlDy-lNcj74rPpe4mIQQA.webp" group-title="Basketball",06:00 AM - Dallas Wings vs Minnesota Lynx [Charlie] - (09/06/2025)
+https://rr.vipstreams.in/Charlie/js/minnesota-lynx-vs-dallas-wings-1629444939/1/playlist.m3u8
