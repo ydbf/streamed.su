@@ -1,0 +1,268 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="2025 U.S. Senior Open Championship" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",01:00 PM - 2025 U.S. Senior Open Championship [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/2025-u-s-senior-open-championship/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN First Take" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",ESPN First Take
+https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",NBA TV
+https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
+#EXTINF:-1 tvg-name="MotoGP Qualifying | MotoGP Main Race" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",MotoGP Qualifying | MotoGP Main Race
+https://rr.vipstreams.in/Alpha/js/motogp-qualifying-motogp-main-race/1/playlist.m3u8
+#EXTINF:-1 tvg-name="DAZN Formula 1 | DAZN F1" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",DAZN Formula 1 | DAZN F1
+https://rr.vipstreams.in/Alpha/js/dazn-formula-1-dazn-f1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports F1 | Sky F1" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Sky Sports F1 | Sky F1
+https://rr.vipstreams.in/Alpha/js/sky-sports-f1-sky-f1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",NHL Network
+https://rr.vipstreams.in/Alpha/js/nhl-network/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wimbledon Open" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Wimbledon Open
+https://rr.vipstreams.in/Alpha/js/wimbledon-open/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Eastbourne Open" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Eastbourne Open
+https://rr.vipstreams.in/Alpha/js/eastbourne-open/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Tennis Channel
+https://rr.vipstreams.in/Alpha/js/tennis-channel/1/playlist.m3u8
+#EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",MLB Network
+https://rr.vipstreams.in/Alpha/js/mlb-network/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Sky Sports Golf
+https://rr.vipstreams.in/Alpha/js/sky-sports-golf/1/playlist.m3u8
+#EXTINF:-1 tvg-name="PGA Tour 2025" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",PGA Tour 2025
+https://rr.vipstreams.in/Alpha/js/pga-tour-2025/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NBC Golf Channel" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",NBC Golf Channel
+https://rr.vipstreams.in/Alpha/js/nbc-golf-channel/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports News | SSN Breaking Sports News" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Sky Sports News | SSN Breaking Sports News
+https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",NFL Network
+https://rr.vipstreams.in/Alpha/js/nfl-network/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",ESPN
+https://rr.vipstreams.in/Alpha/js/espn/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fox NRL TV" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Fox NRL TV
+https://rr.vipstreams.in/Alpha/js/fox-nrl-tv/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",WWE Network
+https://rr.vipstreams.in/Alpha/js/wwe-network/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Sky Sports Darts
+https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Darts TV: All Darts Championship
+https://rr.vipstreams.in/Alpha/js/darts-tv-all-darts-championship/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",NFL Network
+https://rr.vipstreams.in/Alpha/js/nfl-network/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",ESPN
+https://rr.vipstreams.in/Alpha/js/espn/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wimbledon: 2025 Access All England" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:00 PM - Wimbledon: 2025 Access All England [Charlie] - (30/06/2025)
+https://rr.vipstreams.in/Charlie/js/2025-access-all-england-1629446527/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe vs South Africa" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Cricket",06:00 PM - Zimbabwe vs South Africa [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/zimbabwe-vs-south-africa/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wimbledon: 2025 Wimbledon Press Conferences" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",07:00 PM - Wimbledon: 2025 Wimbledon Press Conferences [Charlie] - (30/06/2025)
+https://rr.vipstreams.in/Charlie/js/2025-wimbledon-press-conferences-1629446528/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wimbledon: Court 10" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Wimbledon: Court 10 [Charlie] - (30/06/2025)
+https://rr.vipstreams.in/Charlie/js/court-10-1629446544/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wimbledon: Court 7" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Wimbledon: Court 7 [Charlie] - (30/06/2025)
+https://rr.vipstreams.in/Charlie/js/court-7-1629446534/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wimbledon: Court 8" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Wimbledon: Court 8 [Charlie] - (30/06/2025)
+https://rr.vipstreams.in/Charlie/js/court-8-1629446545/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wimbledon: No.3 Court" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Wimbledon: No.3 Court [Charlie] - (30/06/2025)
+https://rr.vipstreams.in/Charlie/js/no3-court-1629446543/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wimbledon: Court 12" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Wimbledon: Court 12 [Charlie] - (30/06/2025)
+https://rr.vipstreams.in/Charlie/js/court-12-1629446539/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wimbledon: Court 16" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Wimbledon: Court 16 [Charlie] - (30/06/2025)
+https://rr.vipstreams.in/Charlie/js/court-16-1629446533/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wimbledon: Court 18" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Wimbledon: Court 18 [Charlie] - (30/06/2025)
+https://rr.vipstreams.in/Charlie/js/court-18-1629446535/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wimbledon: Court 6" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Wimbledon: Court 6 [Charlie] - (30/06/2025)
+https://rr.vipstreams.in/Charlie/js/court-6-1629446530/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wimbledon: Court 9" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Wimbledon: Court 9 [Charlie] - (30/06/2025)
+https://rr.vipstreams.in/Charlie/js/court-9-1629446536/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wimbledon: Court 4" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Wimbledon: Court 4 [Charlie] - (30/06/2025)
+https://rr.vipstreams.in/Charlie/js/court-4-1629446532/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wimbledon: Court 15" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Wimbledon: Court 15 [Charlie] - (30/06/2025)
+https://rr.vipstreams.in/Charlie/js/court-15-1629446531/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wimbledon: Court 5" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Wimbledon: Court 5 [Charlie] - (30/06/2025)
+https://rr.vipstreams.in/Charlie/js/court-5-1629446546/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wimbledon: The Championships, Wimbledon 2025: Coverage pres. by Barclays (First Round)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Wimbledon: The Championships, Wimbledon 2025: Coverage pres. by Barclays (First Round) [Charlie] - (30/06/2025)
+https://rr.vipstreams.in/Charlie/js/the-championships-wimbledon-2025-coverage-pres-by-barclays-first-round-1629446540/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wimbledon: Court 17" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Wimbledon: Court 17 [Charlie] - (30/06/2025)
+https://rr.vipstreams.in/Charlie/js/court-17-1629446542/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wimbledon: Court 14" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Wimbledon: Court 14 [Charlie] - (30/06/2025)
+https://rr.vipstreams.in/Charlie/js/court-14-1629446541/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 7: Anca Todoni vs Cristina Bucsa" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Court 7: Anca Todoni vs Cristina Bucsa [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-7-anca-todoni-vs-cristina-buc-a/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 3: Sonay Kartal vJelena Ostapenko" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Court 3: Sonay Kartal vJelena Ostapenko [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-3-sonay-kartal-vjelena-ostapenko/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 10: Diane Parry vs Petra Martic" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Court 10: Diane Parry vs Petra Martic [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-10-diane-parry-vs-petra-martic/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 14: Viktoriya Tomova vs Ons Jabeur" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Court 14: Viktoriya Tomova vs Ons Jabeur [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-14-viktoriya-tomova-vs-ons-jabeur/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 18: Anna Bondar vs Elina Svitolina" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Court 18: Anna Bondar vs Elina Svitolina [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-18-anna-bondar-vs-elina-svitolina/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 15: Kimberly Birrell vs Donna Vekic" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Court 15: Kimberly Birrell vs Donna Vekic [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-15-kimberly-birrell-vs-donna-vekic/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 8: Eva Lys vs Yue Yuan" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Court 8: Eva Lys vs Yue Yuan [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-8-eva-lys-vs-yue-yuan/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 17: Jiri Lehecka vs Hugo Dellien" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Court 17: Jiri Lehecka vs Hugo Dellien [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-17-jiri-lehecka-vs-hugo-dellien/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 6: Learner Tien vs Nishesh Basavareddy" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Court 6: Learner Tien vs Nishesh Basavareddy [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-6-learner-tien-vs-nishesh-basavareddy/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 2: Benjamin Bonzi vs Daniil Medvedev" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Court 2: Benjamin Bonzi vs Daniil Medvedev [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-2-benjamin-bonzi-vs-daniil-medvedev/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 9: Vit Kopriva vs Jordan Thompson" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Court 9: Vit Kopriva vs Jordan Thompson [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-9-vit-kopriva-vs-jordan-thompson/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 5: Adrian Mannarino vs Christopher O'Connell" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Court 5: Adrian Mannarino vs Christopher O'Connell [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-5-adrian-mannarino-vs-christopher-o-connell/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 12: Elmer Moller vs Frances Tiafoe" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Court 12: Elmer Moller vs Frances Tiafoe [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-12-elmer-moller-vs-frances-tiafoe/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 4: Oliver Tarvet vs Leandro Riedi" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Court 4: Oliver Tarvet vs Leandro Riedi [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-4-oliver-tarvet-vs-leandro-riedi/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 16: Mattia Bellucci vs Oliver Crawford" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Court 16: Mattia Bellucci vs Oliver Crawford [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-16-mattia-bellucci-vs-oliver-crawford/1/playlist.m3u8
+#EXTINF:-1 tvg-name="CLS Stage 1 | Day 1 (Session 1)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Billiards",09:00 PM - CLS Stage 1 | Day 1 (Session 1) [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/cls-stage-1-day-1-session-1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 10: Beatriz Haddad Maia vs Rebecca Sramkova" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",09:30 PM - Court 10: Beatriz Haddad Maia vs Rebecca Sramkova [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-10-beatriz-haddad-maia-vs-rebecca-sramkova/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 14: Bernarda Pera vs Linda Noskova" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",09:30 PM - Court 14: Bernarda Pera vs Linda Noskova [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-14-bernarda-pera-vs-linda-noskova/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 8: Peyton Stearns vs Laura Siegemund" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",09:30 PM - Court 8: Peyton Stearns vs Laura Siegemund [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-8-peyton-stearns-vs-laura-siegemund/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 15: Alexei Popyrin vs Arthur Fery" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",09:30 PM - Court 15: Alexei Popyrin vs Arthur Fery [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-15-alexei-popyrin-vs-arthur-fery/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 7: Zizou Bergs vs Lloyd Harris" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",09:30 PM - Court 7: Zizou Bergs vs Lloyd Harris [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-7-zizou-bergs-vs-lloyd-harris/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 3: Holger Rune vs Nicolas Jarry" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",09:30 PM - Court 3: Holger Rune vs Nicolas Jarry [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-3-holger-rune-vs-nicolas-jarry/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 18: Cameron Norrie vs Roberto Bautista Agut" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",09:30 PM - Court 18: Cameron Norrie vs Roberto Bautista Agut [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-18-cameron-norrie-vs-roberto-bautista-agut/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 1: Aryna Sabalenka vs Carson Branstine" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",10:00 PM - Court 1: Aryna Sabalenka vs Carson Branstine [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-1-aryna-sabalenka-vs-carson-branstine/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 6: Varvara Gracheva vs Aliaksandra Sasnovich" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",10:00 PM - Court 6: Varvara Gracheva vs Aliaksandra Sasnovich [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-6-varvara-gracheva-vs-aliaksandra-sasnovich/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 9: Olga Danilovic vs Zhang Shuai" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",10:00 PM - Court 9: Olga Danilovic vs Zhang Shuai [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-9-olga-danilovic-vs-zhang-shuai/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 16: Diana Shnaider vs Moyuka Uchijima" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",10:00 PM - Court 16: Diana Shnaider vs Moyuka Uchijima [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-16-diana-shnaider-vs-moyuka-uchijima/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 4: Greet Minnen vs Olivia Gadecki" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",10:00 PM - Court 4: Greet Minnen vs Olivia Gadecki [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-4-greet-minnen-vs-olivia-gadecki/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 2: Elena-Gabriela Ruse vs Madison Keys" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",10:00 PM - Court 2: Elena-Gabriela Ruse vs Madison Keys [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-2-elena-gabriela-ruse-vs-madison-keys/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 17: Francisco Cerundolo vs Nuno Borges" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",10:00 PM - Court 17: Francisco Cerundolo vs Nuno Borges [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-17-francisco-cerundolo-vs-nuno-borges/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 12: Valentin Royer vs Stefanos Tsitsipas" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",10:00 PM - Court 12: Valentin Royer vs Stefanos Tsitsipas [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-12-valentin-royer-vs-stefanos-tsitsipas/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 5: Luciano Darderi vs Roman Safiullin" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",10:00 PM - Court 5: Luciano Darderi vs Roman Safiullin [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-5-luciano-darderi-vs-roman-safiullin/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Centre Court: Fabio Fognini vs Carlos Alcaraz" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",10:30 PM - Centre Court: Fabio Fognini vs Carlos Alcaraz [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/centre-court-fabio-fognini-vs-carlos-alcaraz/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 8: Jan-Lennard Struff vs Filip Misolic" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",11:00 PM - Court 8: Jan-Lennard Struff vs Filip Misolic [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-8-jan-lennard-struff-vs-filip-misolic/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 14: Felix Auger Aliassime vs James Duckworth" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",11:00 PM - Court 14: Felix Auger Aliassime vs James Duckworth [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-14-felix-auger-aliassime-vs-james-duckworth/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 10: Pablo Carreno Busta vs Chris Rodesch" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",11:00 PM - Court 10: Pablo Carreno Busta vs Chris Rodesch [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-10-pablo-carreno-busta-vs-chris-rodesch/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 2: Jasmine Paolini vs Anastasija Sevastova" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",11:30 PM - Court 2: Jasmine Paolini vs Anastasija Sevastova [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-2-jasmine-paolini-vs-anastasija-sevastova/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 9: Yanina Wickmayer vs Renata Zarazua" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",11:30 PM - Court 9: Yanina Wickmayer vs Renata Zarazua [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-9-yanina-wickmayer-vs-renata-zarazua/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 7: Kamilla Rakhimova vs Ao iIto" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",11:30 PM - Court 7: Kamilla Rakhimova vs Ao iIto [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-7-kamilla-rakhimova-vs-ao-iito/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 6: Ann Li vs Viktorija Golubic" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",11:30 PM - Court 6: Ann Li vs Viktorija Golubic [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-6-ann-li-vs-viktorija-golubic/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 1: Jacob Fearnley vs Joao Fonseca" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",11:30 PM - Court 1: Jacob Fearnley vs Joao Fonseca [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-1-jacob-fearnley-vs-joao-fonseca/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 3: Matteo Berrettini vs Kamil Majchrzak" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",11:30 PM - Court 3: Matteo Berrettini vs Kamil Majchrzak [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-3-matteo-berrettini-vs-kamil-majchrzak/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 18: Mackenzie McDonald vs Karen Khachanov" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",11:30 PM - Court 18: Mackenzie McDonald vs Karen Khachanov [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-18-mackenzie-mcdonald-vs-karen-khachanov/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 4: Ethan Quinn vs Henry Searle" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",11:30 PM - Court 4: Ethan Quinn vs Henry Searle [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-4-ethan-quinn-vs-henry-searle/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 16: Andrey Rublev vs Laslo Djere" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",11:30 PM - Court 16: Andrey Rublev vs Laslo Djere [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-16-andrey-rublev-vs-laslo-djere/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 15: Billy Harris vs Dusan Lajovic" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",11:30 PM - Court 15: Billy Harris vs Dusan Lajovic [Alpha] - (30/06/2025)
+https://rr.vipstreams.in/Alpha/js/court-15-billy-harris-vs-dusan-lajovic/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 5: Lulu Sun vs Marie Bouzkova" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",12:00 AM - Court 5: Lulu Sun vs Marie Bouzkova [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/court-5-lulu-sun-vs-marie-bouzkova/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 12: Leylah Fernandez vs Hannah Klugman" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",12:00 AM - Court 12: Leylah Fernandez vs Hannah Klugman [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/court-12-leylah-fernandez-vs-hannah-klugman/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 17: Harriet Dart vs Dalma Galfi" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",12:00 AM - Court 17: Harriet Dart vs Dalma Galfi [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/court-17-harriet-dart-vs-dalma-galfi/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Centre Court: Paula Badosa vs Katie Boulter" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",12:30 AM - Centre Court: Paula Badosa vs Katie Boulter [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/centre-court-paula-badosa-vs-katie-boulter/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 10: Anastasia Pavlyuchenkova vs Ajla Tomljanovic" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",01:00 AM - Court 10: Anastasia Pavlyuchenkova vs Ajla Tomljanovic [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/court-10-anastasia-pavlyuchenkova-vs-ajla-tomljanovic/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 7: Shintaro Mochizuki vs Giulio Zeppieri" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",01:00 AM - Court 7: Shintaro Mochizuki vs Giulio Zeppieri [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/court-7-shintaro-mochizuki-vs-giulio-zeppieri/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 2: Taylor Fritz vs Giovanni Mpetshi Perricard" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",01:00 AM - Court 2: Taylor Fritz vs Giovanni Mpetshi Perricard [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/court-2-taylor-fritz-vs-giovanni-mpetshi-perricard/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 6: Matteo Arnaldi vs Boticvande Zandschulp" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",01:00 AM - Court 6: Matteo Arnaldi vs Boticvande Zandschulp [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/court-6-matteo-arnaldi-vs-boticvande-zandschulp/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 8: Gabriel Diallo vs Daniel Altmaier" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",01:00 AM - Court 8: Gabriel Diallo vs Daniel Altmaier [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/court-8-gabriel-diallo-vs-daniel-altmaier/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 14: Jenson Brooksby vs Tallon Griekspoor" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",01:00 AM - Court 14: Jenson Brooksby vs Tallon Griekspoor [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/court-14-jenson-brooksby-vs-tallon-griekspoor/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 9: Brandon Holt Alejandro vs Davidovich Fokina" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",01:00 AM - Court 9: Brandon Holt Alejandro vs Davidovich Fokina [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/court-9-brandon-holt-alejandro-vs-davidovich-fokina/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 1: Emma Raducanu vs Mingge Xu" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",01:30 AM - Court 1: Emma Raducanu vs Mingge Xu [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/court-1-emma-raducanu-vs-mingge-xu/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 15: Yulia Putintseva vs Amanda Anisimova" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",01:30 AM - Court 15: Yulia Putintseva vs Amanda Anisimova [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/court-15-yulia-putintseva-vs-amanda-anisimova/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 17: Ashlyn Krueger vs Mika Stojsavljevic" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",01:30 AM - Court 17: Ashlyn Krueger vs Mika Stojsavljevic [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/court-17-ashlyn-krueger-vs-mika-stojsavljevic/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 18: Naomi Osaka vs Talia Gibson" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",01:30 AM - Court 18: Naomi Osaka vs Talia Gibson [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/court-18-naomi-osaka-vs-talia-gibson/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 3: Katerina Siniakova vs Qinwen Zheng" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",01:30 AM - Court 3: Katerina Siniakova vs Qinwen Zheng [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/court-3-katerina-siniakova-vs-qinwen-zheng/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 12: Marketa Vondrousova vs Mc Cartney Kessler" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",01:30 AM - Court 12: Marketa Vondrousova vs Mc Cartney Kessler [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/court-12-marketa-vondrousova-vs-mc-cartney-kessler/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 16: Elise Mertens vs Linda Fruhvirtova" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",01:30 AM - Court 16: Elise Mertens vs Linda Fruhvirtova [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/court-16-elise-mertens-vs-linda-fruhvirtova/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Argentina Basketball Women vs Dominican Republic Basketball Women" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmFY1iABhAQQvEFhAlD5kCGkXjLJBSwi5jFGFUoeb8o2pyP+VmAwN3ExCCA.webp" group-title="Basketball",01:40 AM - Argentina Basketball Women vs Dominican Republic Basketball Women [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/argentina-w-vs-dominican-republic-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Centre Court: Arthur Rinderknech vs Alexander Zverev" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",02:00 AM - Centre Court: Arthur Rinderknech vs Alexander Zverev [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/centre-court-arthur-rinderknech-vs-alexander-zverev/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Djurgarden vs Norrkoping" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",03:00 AM - Djurgarden vs Norrkoping [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/djurgarden-vs-norrkoping/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Mjallby vs Malmo FF" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLJTBSwSWUhDcQUkHxAkjIS4kvm+BYEgp3WIsSjAqUXD+XobRXky0YB5iohBAA.webp" group-title="Football",03:00 AM - Mjallby vs Malmo FF [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/mjallby-vs-malmo-ff/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Brann vs Sandefjord" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEJVIhwMEChDcQfEIm2JDxqSZAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",03:00 AM - Brann vs Sandefjord [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/brann-vs-sandefjord/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Brazil Basketball Women vs Canada Basketball Women" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHgJg0sCBAkQ1ELxBYDJy-ulX9LJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Basketball",04:10 AM - Brazil Basketball Women vs Canada Basketball Women [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/brazil-w-vs-canada-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Codigo MotoGP | Netherlands" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Motor Sports",04:30 AM - Codigo MotoGP | Netherlands [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/codigo-motogp-netherlands/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Codigo F1 | Austria" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Motor Sports",05:00 AM - Codigo F1 | Austria [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/codigo-f1-austria/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Inter Milan vs Fluminense" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQ1WwAAwhBG3gZAkQxmOc0mUIZvmBIKWEXMZbVKHmDLwi1OS8HejAfcTEIIA.webp" group-title="Football",05:00 AM - Inter Milan vs Fluminense [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/internazionale-vs-fluminense/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Inter Milan vs Fluminense" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQ1WwAAwhBG3gZAkQxmOc0mUIZvmBIKWEXMZbVKHmDLwi1OS8HejAfcTEIIA.webp" group-title="Football",05:00 AM - Inter Milan vs Fluminense [Charlie] - (01/07/2025)
+https://rr.vipstreams.in/Charlie/js/inter-vs-fluminense-1629446646/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Colombia Basketball Women vs Mexico Basketball Women" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdomocEIHLxD6sIEgdMgQ0syBQskFLCLmMUYVSh6vyjLWPf5WwGCu4mIQQA.webp" group-title="Basketball",07:40 AM - Colombia Basketball Women vs Mexico Basketball Women [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/colombia-w-vs-mexico-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Colon Santa Fe vs Mitre" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",08:00 AM - Colon Santa Fe vs Mitre [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/colon-santa-fe-vs-mitre/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Paysandu PA vs Ferroviaria" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",08:00 AM - Paysandu PA vs Ferroviaria [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/paysandu-pa-vs-ferroviaria/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cerro Largo vs River Plate Montevideo" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihAwQ-LCCggdIPRENbj+syRDN8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="Football",08:00 AM - Cerro Largo vs River Plate Montevideo [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/cerro-largo-vs-river-plate/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Philadelphia Phillies vs San Diego Padres" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHhgQfEFF5gSIXiCx6QFs9JApT5rCyQUH7UeJSGOKHofKNqct74rMBgnoxiEEA.webp" group-title="Baseball",08:35 AM - Philadelphia Phillies vs San Diego Padres [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/philadelphia-phillies-vs-san-diego-padres/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Philadelphia Phillies vs San Diego Padres" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHhgQfEFF5gSIXiCx6QFs9JApT5rCyQUH7UeJSGOKHofKNqct74rMBgnoxiEEA.webp" group-title="Baseball",08:35 AM - Philadelphia Phillies vs San Diego Padres [Charlie] - (01/07/2025)
+https://rr.vipstreams.in/Charlie/js/san-diego-padres-vs-philadelphia-phillies-1629446647/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pittsburgh Pirates vs St. Louis Cardinals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHr4Q0kLRSUQvEFhAQQF07pQmzelkgpYRcxijCqDHD+UbU5BviswGAe4mIQQA.webp" group-title="Baseball",08:40 AM - Pittsburgh Pirates vs St. Louis Cardinals [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/pittsburgh-pirates-vs-st-louis-cardinals/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pittsburgh Pirates vs St. Louis Cardinals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHr4Q0kLRSUQvEFhAQQF07pQmzelkgpYRcxijCqDHD+UbU5BviswGAe4mIQQA.webp" group-title="Baseball",08:40 AM - Pittsburgh Pirates vs St. Louis Cardinals [Charlie] - (01/07/2025)
+https://rr.vipstreams.in/Charlie/js/st-louis-cardinals-vs-pittsburgh-pirates-1629446648/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Toronto Blue Jays vs New York Yankees" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoLQheCPpG0gsICCFNHpIFIeOmWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Baseball",09:07 AM - Toronto Blue Jays vs New York Yankees [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/toronto-blue-jays-vs-new-york-yankees/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Toronto Blue Jays vs New York Yankees" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoLQheCPpG0gsICCFNHpIFIeOmWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Baseball",09:07 AM - Toronto Blue Jays vs New York Yankees [Charlie] - (01/07/2025)
+https://rr.vipstreams.in/Charlie/js/new-york-yankees-vs-toronto-blue-jays-1629446649/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Boston Red Sox vs Cincinnati Reds" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrMEgQtKEhC8QWEBG1GQ0kCnOnF+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Baseball",09:10 AM - Boston Red Sox vs Cincinnati Reds [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/boston-red-sox-vs-cincinnati-reds/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Boston Red Sox vs Cincinnati Reds" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrMEgQtKEhC8QWEBG1GQ0kCnOnF+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Baseball",09:10 AM - Boston Red Sox vs Cincinnati Reds [Charlie] - (01/07/2025)
+https://rr.vipstreams.in/Charlie/js/cincinnati-reds-vs-boston-red-sox-1629446650/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tampa Bay Rays vs Athletics" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKuH5lEiCCF4gsIPSEMhpIFKf2mWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Baseball",09:35 AM - Tampa Bay Rays vs Athletics [Alpha] - (01/07/2025)
+https://rr.vipstreams.in/Alpha/js/tampa-bay-rays-vs-athletics/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tampa Bay Rays vs Athletics" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKuH5lEiCCF4gsIPSEMhpIFKf2mWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Baseball",09:35 AM - Tampa Bay Rays vs Athletics [Charlie] - (01/07/2025)
+https://rr.vipstreams.in/Charlie/js/athletics-vs-tampa-bay-rays-1629446651/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Texas Rangers vs Baltimore Orioles" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFCkgZSECAYhu2kChB8zIGIb24zBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Baseball",10:05 AM - Texas Rangers vs Baltimore Orioles [Charlie] - (01/07/2025)
+https://rr.vipstreams.in/Charlie/js/baltimore-orioles-vs-texas-rangers-1629446652/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Manchester City vs Al Hilal" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAZWQ6gOBIQvEFhAlDIGOZTGQ1+CyQUsIuYxRhVKHh-KNdYr3xtMA9xMQggA.webp" group-title="Football",11:00 AM - Manchester City vs Al Hilal [Charlie] - (01/07/2025)
+https://rr.vipstreams.in/Charlie/js/manchester-city-vs-al-hilal-1629446653/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arizona Diamondbacks vs San Francisco Giants" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGBAgpCZlpDcQfAyBL6IIFEe2WCwJBT7DZ9DSpRcwZeESyyPTLRgXmKiEEA.webp" group-title="Baseball",11:40 AM - Arizona Diamondbacks vs San Francisco Giants [Charlie] - (01/07/2025)
+https://rr.vipstreams.in/Charlie/js/san-francisco-giants-vs-arizona-diamondbacks-1629446655/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Seattle Mariners vs Kansas City Royals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYEWUaNIbiD66QiECClGQKC-oLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Baseball",11:40 AM - Seattle Mariners vs Kansas City Royals [Charlie] - (01/07/2025)
+https://rr.vipstreams.in/Charlie/js/kansas-city-royals-vs-seattle-mariners-1629446654/1/playlist.m3u8
